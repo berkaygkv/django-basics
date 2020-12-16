@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<style>
+    table {
+      font-size: 10px;
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    h2 {
+
+      background-color: #dddddd;
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #a4a5a5;
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+</style>
+<table>
+    <h2>KÜLOTABLE</h2>
+    <tr>
+{% for abc in columns %}
+        <th>{{ abc }}</th>
+{% endfor %}
+    </tr>
+{% for val in values %}
+    <tr>
+    {% for abc in val %}
+        <td>{{ abc }}</td>
+    {% endfor %}
+    </tr>
+{% endfor %}
+</table>
+
+{% endblock %}

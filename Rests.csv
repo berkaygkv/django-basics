@@ -1,0 +1,713 @@
+Table ID,Sourcing_competitor,Common_sources,Restaurant_name,Tags,Average basket value,Country,City_code,Address,Latitude,Longitude,Phone_number,Rating,Number_of_reviews,Website,URL,Postal_code,Opening_hours,Place ID,user_ratings_total,google_grade,competitor_grade1(%),competitor_grade2(%),competitor_grade3(%)
+124821,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Kalvarija,"Mediterranean, European, Wine Bar, Eastern European, Croatian, Central European",,Croatia,KAR,Vucjak 3,45.494564,15.508611,+385 98 699 001,5,109,,,,Fri - Sun|12:00 PM - 12:00 AM,ChIJG-W5u_U-ZEcRHFx95ep7PCM,242,4.8,-,-,-
+124822,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Kastel,"European, Croatian, Central European",,Croatia,KAR,Zagrad  Gaj 5 Stari grad Dubovac,45.495041,15.528073,+385 47 658 922,5,98,,,,Sun - Thu|10:00 AM - 11:00 PM|Fri - Sat|10:00 AM - 11:30 PM,ChIJI_BzCoY-ZEcRwqHWrQut8O8,603,4.7,-,-,-
+124823,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Kostanjac,,,Croatia,KAR,Janka Drashkovica 1,45.495739,15.554408,+385 47 613 740,4.5,156,,,,Mon - Thu|9:00 AM - 10:00 PM|Fri - Sat|9:00 AM - 11:00 PM,ChIJ8dZRDjA8ZEcR2ZSnPf8OPVk,553,4.5,-,-,-
+124824,sourcing_tripadvisor,sourcing_tripadvisor,Restoran M-90,"Seafood, Mediterranean, Grill, Croatian, Central European, European",,Croatia,KAR,Zagrebacka ul. Bb Iza benzinske postaje INA,45.521683,15.548095,+385 47 637 644,5,45,,,,Sun|12:00 AM - 6:00 PM|Mon - Sat|10:00 AM - 10:00 PM,ChIJK1eCB6w-ZEcRdH2FDzBOMxU,205,4.7,-,-,-
+124825,sourcing_tripadvisor,sourcing_tripadvisor,Tiffany,"Italian, Pizza, European, Croatian",,Croatia,KAR,Dr.Vladka Macheka 6/1,45.492672,15.548914,+385 47 614 666,4,154,,,,,ChIJ4zQfei48ZEcR8BygOVCctEY,1911,4.6,-,-,-
+124826,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Zec tavern,"Steakhouse, Croatian, Mediterranean, Barbecue, European",,Croatia,KAR,Mirka Bogovica 2,45.501171,15.550663,+385 47 645 455,4.5,29,,,,,ChIJM-pZAyQ8ZEcRyQWiEWtLCu0,414,4.4,-,-,-
+124827,sourcing_tripadvisor,sourcing_tripadvisor,Mandic,"Barbecue, Croatian, Steakhouse, European",,Croatia,KAR,Jamadolska 2,45.486912,15.53683,+385 47 415 490,4.5,23,,,,,ChIJJRi6dNU9ZEcRfvQV3GpmMkM,796,4.7,-,-,-
+124828,sourcing_tripadvisor,sourcing_tripadvisor,SuperGrill Kod Sladica,"Barbecue, Croatian",,Croatia,KAR,Janka Drashkovica 3,45.495651,15.55471,+385 47 600 542,4.5,25,,,,Sun - Sat|7:00 AM - 11:00 PM,ChIJB61wEjA8ZEcRTa5HJdMjK-Y,205,4.4,-,-,-
+124829,sourcing_tripadvisor,sourcing_tripadvisor,Su Su Pub,"Pizza, European, Croatian",,Croatia,KAR,Vladimira Nazora 4,45.49142800000001,15.549376,+385 95 599 3525,4.5,30,,,,Sun - Thu|8:00 AM - 11:00 PM|Fri - Sat|8:00 AM - 11:30 PM,ChIJ33m8STgAZUcRQmVDHK12mOw,2,5,-,-,-
+124830,sourcing_tripadvisor,sourcing_tripadvisor,Petric Restoran Lovacki Rog,"European, Croatian, Eastern European, Central European",,Croatia,KAR,Zagrebacka ulica 146,45.539211,15.573345,+385 47 637 675,4.5,29,,,,Mon - Fri|10:00 AM - 10:00 PM|Sat - Sun|11:00 AM - 11:00 PM,ChIJS9YF4eY7ZEcRfKxYQmSSqtw,575,4.6,-,-,-
+124831,sourcing_tripadvisor,sourcing_tripadvisor,Slatki Centar,"Cafe, European",,Croatia,KAR,Dr. Vlatka Maceka 6,45.492321,15.54909,+385 47 613 801,4.5,16,,,,Sun|8:00 AM - 10:00 PM|Mon - Thu|7:30 AM - 10:00 PM|Fri - Sat|7:30 AM - 11:00 PM,ChIJv8C9cC48ZEcRh4G-BfR31MU,383,4.6,-,-,-
+124832,sourcing_tripadvisor,sourcing_tripadvisor,Scooby-Doo,"Pizza, Fast Food, Croatian, European",,Croatia,KAR,Stjepana Radica 28,45.49157,15.55559,+385 47 613 842,4.5,13,,,,,ChIJN6IKZDE8ZEcRq5tTx0bUBdI,322,4.2,-,-,-
+124833,sourcing_tripadvisor,sourcing_tripadvisor,GP Snack Bar,Fast Food,,Croatia,KAR,Celestina Medovica 1A,45.480484,15.545051,+385 47 414 001,5,7,,,,,ChIJYxZU1M89ZEcRcsk6tPxjH2I,802,4.7,-,-,-
+124834,sourcing_tripadvisor,sourcing_tripadvisor,Holy Donut,European,,Croatia,KAR,J. Krizanica 22,45.491959,15.55407,,5,6,,,,,ChIJk9l2CTE8ZEcRu7NjcAwTrCM,112,4.8,-,-,-
+124835,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Palma,"European, Croatian",,Croatia,KAR,Matka Laginje 1,45.50103,15.548516,+385 47 645 320,4.5,15,,,,Sun - Sat|7:00 AM - 10:00 PM,ChIJDSUKvCY8ZEcRFZegr7C5AmU,421,4.3,-,-,-
+124836,sourcing_tripadvisor,sourcing_tripadvisor,Papa's Bar,,,Croatia,KAR,Shetalishte Dr.Franje Tudjmana 1,45.49379,15.552255,+385 47 615 330,4.5,8,,,,,ChIJ8ZjhKS48ZEcRnB2lk5e51CA,1235,4.5,-,-,-
+124837,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Vami,Barbecue,,Croatia,KAR,Andrije Hebranga 17,45.48019,15.543266,+385 47 612 500,4,15,,,,,ChIJq3XsPtA9ZEcRqZNIz2gqmdw,573,4.5,-,-,-
+124838,sourcing_tripadvisor,sourcing_tripadvisor,Mamma Mia,Pizza,,Croatia,KAR,Maksimilijana Vrhovca 23,45.48,15.5492,,5,4,,,,,ChIJc7ZCHs89ZEcRxHqZ0fLU1UY,374,4.5,-,-,-
+124839,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Mona Lisa,Pizza,,Croatia,KAR,Stjepana Radica 20,45.491898,15.555572,+385 47 601 660,3.5,22,,,,Mon - Fri|9:00 AM - 11:00 PM|Sat - Sun|12:00 PM - 11:00 PM,ChIJU1Lo4TM8ZEcRZsb38tqXqoM,790,4.4,-,-,-
+124840,sourcing_tripadvisor,sourcing_tripadvisor,Restoran TEMPO,"European, Croatian",,Croatia,KAR,Obala Vladimira Mazhuranica 1,45.494598,15.55097,,4.5,7,,,,,ChIJzfkHyi88ZEcRfbjZfmeChdo,204,4.2,-,-,-
+124841,sourcing_tripadvisor,sourcing_tripadvisor,Cohiba,,,Croatia,KAR,Shetalishte Dr.Franje Tudjmana 4,45.493431,15.551622,+385 91 641 5230,5,3,,,,,ChIJZS0iJC48ZEcRrW0SGcXtmzE,282,4.6,-,-,-
+124842,sourcing_tripadvisor,sourcing_tripadvisor,Pod Svarcom Tavern,,,Croatia,KAR,Senjska Ulica 63,45.479599,15.546415,+385 47 431 120,4,12,,,,,ChIJo9gfys89ZEcRY9qyrPRoBCA,555,4.3,-,-,-
+124843,sourcing_tripadvisor,sourcing_tripadvisor,Pekara Monika,,,Croatia,KAR,Turan 59,45.46262,15.56853,+385 47 641 897,4.5,3,,,,Sun - Sat|7:00 AM - 10:00 PM,ChIJaRyGKy48ZEcRHCpPlYhz9O4,107,4.6,-,-,-
+124844,sourcing_tripadvisor,sourcing_tripadvisor,Promenada,,,Croatia,KAR,Shetalishte Dr.Franje Tudjmana 10,45.49239,15.55029,+385 47 600 240,5,3,,,,,ChIJ2TXODi48ZEcRqfUrd3MBKao,153,4.5,-,-,-
+124845,sourcing_tripadvisor,sourcing_tripadvisor,Caffe i Bistro Kupa,Italian,,Croatia,KAR,Obala Franje Rackog 4,45.497478,15.5519,+385 47 648 677,4,8,,,,Sun|8:00 AM - 10:30 PM|Mon - Wed|6:30 AM - 11:00 PM|Thu|6:30 AM - 11:30 PM|Fri|6:30 AM - 12:00 AM|Sat|8:00 AM - 12:00 AM,ChIJo7IZbiU8ZEcRSBzEkBibglU,327,4.6,-,-,-
+124846,sourcing_tripadvisor,sourcing_tripadvisor,Gradska Straza,,,Croatia,KAR,Stjepana Radica 32,45.49142800000001,15.555759,+385 47 601 420,5,2,,,,,ChIJp5PXXzE8ZEcRoKtuDpLt4q4,155,4.4,-,-,-
+124847,sourcing_tripadvisor,sourcing_tripadvisor,Cevabdzinica Behar,"European, Grill, Croatian",,Croatia,KAR,Domobranska Ulica 31,45.48722100000001,15.55596,+385 47 550 766,5,2,,,,,ChIJ7XjFLy49ZEcRTN2OmiYYxTQ,407,4.7,-,-,-
+124848,sourcing_tripadvisor,sourcing_tripadvisor,Kristal,"European, Croatian",,Croatia,KAR,Matka Laginje 1,45.50108,15.5478,+385 47 645 888,5,7,,,,Mon - Sat|9:00 AM - 5:00 PM,ChIJ9ZYuwSY8ZEcRYI8cON1guOg,254,4.2,-,-,-
+124849,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Ruzica,,,Croatia,KAR,Zagrebachka 17,45.518532,15.54484,+385 47 637 665,5,2,,,,,ChIJFW3tuqHWZUcRj16QIwCyWuY,0,0,-,-,-
+124850,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Pod Starim Krovovima,"European, Croatian",,Croatia,KAR,Stjepana Radica 8,45.492989,15.55396,+385 47 615 420,4.5,3,,,,,ChIJExb2uzE8ZEcRxTh-d4KlQcg,26,3.9,-,-,-
+124851,sourcing_tripadvisor,sourcing_tripadvisor,Dobra - Hotel Korana Srakovcic,"Seafood, European, Soups, Croatian",,Croatia,KAR,Perivoj Josipa Vrbanica 8,45.488647,15.561731,+385 47 609 090,3.5,13,,,,Wed|12:00 AM - 11:00 AM|Thu - Tue|12:00 AM - 11:00 PM,ChIJUdELkDU8ZEcRIHy1nPHYdQs,472,4.4,-,-,-
+124852,sourcing_tripadvisor,sourcing_tripadvisor,Tornado,"European, Croatian",,Croatia,KAR,Antuna Mihanovica 9,45.50729,15.54675,+385 47 646 200,4.5,2,,,,,ChIJDbrp9x88ZEcRaXtdJWcDndw,680,4.3,-,-,-
+124853,sourcing_tripadvisor,sourcing_tripadvisor,Hollywood Cafe,,,Croatia,KAR,Trg Alojzije Stepinca,45.492496,15.548886,+385 47 611 555,4.5,3,,,,,ChIJpbyEeS48ZEcRivNniuVPoTI,577,4.7,-,-,-
+124854,sourcing_tripadvisor,sourcing_tripadvisor,Choco Caffe Bar,"Italian, American, European, Middle Eastern, Eastern European, Croatian",,Croatia,KAR,Luscic 8B,45.483921,15.54496,+385 47 416 423,4.5,3,,,,Sun|8:00 AM - 10:00 PM|Mon - Thu|7:00 AM - 10:00 PM|Fri - Sat|7:00 AM - 11:00 PM,ChIJ19j7ItI9ZEcRW5BC5hllJ8k,426,4.6,-,-,-
+124855,sourcing_tripadvisor,sourcing_tripadvisor,Kvaka,"Croatian, European",,Croatia,KAR,Zhorovica 3,45.495106,15.536225,+385 47 416 616,3.5,18,,,,,ChIJJYO6tYM-ZEcRKRXf2890s_k,665,4.3,-,-,-
+124856,sourcing_tripadvisor,sourcing_tripadvisor,Restoran & Pizzeria Rustique,,,Croatia,KAR,Dreznik 43,45.49992,15.53468,+385 47 417 290,3.5,4,,,,Sun - Sat|9:00 AM - 11:00 PM,ChIJh9rSRps-ZEcR29qQQsLi1l0,526,4.4,-,-,-
+124857,sourcing_tripadvisor,sourcing_tripadvisor,Chandra,,,Croatia,KAR,Jurja Haulika 22,45.492889,15.55796,+385 91 349 0732,5,1,,,,Mon - Sat|8:00 AM - 2:00 PM,ChIJ2Y8se989ZEcRVo2y-FOiLto,-,-,-,-,-
+124858,sourcing_tripadvisor,sourcing_tripadvisor,Green Bar,,,Croatia,KAR,Tadije Smichiklasa 16,45.48679,15.54953,+385 47 417 235,5,1,,,,,ChIJfR7aMs09ZEcR-O13RpxDNc4,101,4.3,-,-,-
+124859,sourcing_tripadvisor,sourcing_tripadvisor,Antonio,,,Croatia,KAR,Sebetica 10,45.494225,15.551507,+385 47 611 600,5,1,,,,,ChIJHxzMMi48ZEcR1fhezY9lE1o,215,4.6,-,-,-
+124860,sourcing_tripadvisor,sourcing_tripadvisor,The River Pub,"European, Croatian",,Croatia,KAR,Petra Preradovica 10,45.494267,15.55006,+385 98 364 633,5,1,,,,,ChIJpfOBwy88ZEcRc4T4nRjln0A,28,4,-,-,-
+124861,sourcing_tripadvisor,sourcing_tripadvisor,Zrinski,,,Croatia,KAR,Marina Drzhica 4,45.485352,15.54316,+385 47 416 185,3.5,2,,,,,ChIJdctYpNM9ZEcRrpqWt0zrapQ,431,4.2,-,-,-
+124862,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Orca,Italian,,Croatia,KAR,Maksimilijana Vrhovca 1,45.482109,15.55004,+385 47 421 121,4,1,,,,,ChIJ_V59m849ZEcR5irkveuTUsM,422,4.5,-,-,-
+124863,sourcing_tripadvisor,sourcing_tripadvisor,Fran,,,Croatia,KAR,Jurja Haulika 2,45.491711,15.555218,+385 47 612 000,4,1,,,,,ChIJsS1IYzE8ZEcRgPdFPWFtoFU,35,4.3,-,-,-
+124864,sourcing_tripadvisor,sourcing_tripadvisor,Caffe bar As,"Bar, Pub",,Croatia,KAR,Banija 29,45.498901,15.54959,,3.5,3,,,,Sun - Sat|7:00 AM - 11:00 PM,ChIJHxzMMi48ZEcR1fhezY9lE1o,215,4.6,-,-,-
+124865,sourcing_tripadvisor,sourcing_tripadvisor,Catalpa Lounge Bar,,,Croatia,KAR,Stjepana Radica bb,45.49380900000001,15.552931,,3,1,,,,,ChIJrVX90TE8ZEcRR70xBVtL7Z8,367,4.4,-,-,-
+124866,sourcing_tripadvisor,sourcing_tripadvisor,Kod Bakija,"International, European, Croatian",,Croatia,KAR,Jelasi Ul 41,45.445,15.58313,+385 47 641 333,3,2,,,,,ChIJL0FHFGI9ZEcR9IPNRXo9nZY,982,4.2,-,-,-
+124867,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Caffe Bar KUPA,,,Croatia,KAR,Obala Franje Rachkog 4 Obala Franje Rackog 4,45.497478,15.5519,+385 47 648 677,5,2,,,,Sun|9:00 AM - 10:30 PM|Mon - Thu|8:00 AM - 10:30 PM|Fri - Sat|8:00 AM - 11:00 PM,ChIJo7IZbiU8ZEcRSBzEkBibglU,327,4.6,-,-,-
+124868,sourcing_tripadvisor,sourcing_tripadvisor,Lana Korana Restoran,"Pizza, European, Croatian",,Croatia,KAR,Koransko Setaliste 6,45.487251,15.560195,+385 47 600 813,2.5,31,,,,,ChIJfVU1ETU8ZEcReCvuiPPjpgk,1972,4.2,-,-,-
+124869,sourcing_tripadvisor,sourcing_tripadvisor,Greencek,"European, Croatian",,Croatia,KAR,Tadije Smichiklasa 16,45.48679,15.54953,+385 47 629 020,4,9,,,,,ChIJmdc3T809ZEcRaayg5WT57EE,598,4.2,-,-,-
+124870,sourcing_tripadvisor,sourcing_tripadvisor,Astralis,,,Croatia,KAR,Zhumberachka 10,45.501171,15.52441,+385 95 859 5341,,,,,,,ChIJN5zm75E-ZEcRMhiwG-KhFzA,128,4.2,-,-,-
+124871,sourcing_tripadvisor,sourcing_tripadvisor,Amadeus,,,Croatia,KAR,Banjavciceva 2,45.492924,15.553849,+385 98 305 071,,,,,,,ChIJ3YJNvjE8ZEcRgBWDxCfXJ58,99,4.6,-,-,-
+124872,sourcing_tripadvisor,sourcing_tripadvisor,Indeks,,,Croatia,KAR,Pavleka Mishkine 1,45.49453,15.55459,+385 99 815 266,,,,,,,ChIJe3PeRTA8ZEcRBhKkcVDEXPU,76,4.5,-,-,-
+124873,sourcing_tripadvisor,sourcing_tripadvisor,Shadow Lounge Bar,,,Croatia,KAR,Shetalishte Dr.Franje Tudjmana 10,45.492256,15.550298,+385 47 601 223,,,,,,,-,-,-,-,-,-
+124874,sourcing_tripadvisor,sourcing_tripadvisor,Konig,,,Croatia,KAR,Shetalishte Dr.Franje Tudjmana 11,45.492275,15.549953,,,,,,,,ChIJ0cIPSG49ZEcRNx_7p9bfBRc,76,4.9,-,-,-
+124875,sourcing_tripadvisor,sourcing_tripadvisor,Pub D,Pub,,Croatia,KAR,Sebeticeva 3,45.494553,15.551359,+385 95 369 5868,,,,,,,ChIJGYOmyy88ZEcRfElgbdE-Lno,110,4.6,-,-,-
+124876,sourcing_tripadvisor,sourcing_tripadvisor,Ray Bar,"Bar, Cafe, Pub",,Croatia,KAR,Ivana Gundulica 2,45.494362,15.55174,+385 47 615 415,,,,,,,-,-,-,-,-,-
+124877,sourcing_tripadvisor,sourcing_tripadvisor,Kazalisna kavana,"Cafe, Pub",,Croatia,KAR,Domobranska 1,45.082279,15.36416,+385 47 601 512,,,,,,,ChIJ2z9BKRs9ZEcRWrlGnhaLfas,49,4.4,-,-,-
+124878,sourcing_tripadvisor,sourcing_tripadvisor,Karlo,,,Croatia,KAR,Trg Josipa Jurja Strossmayera 2,45.494293,15.554278,+385 97 752 7566,,,,,,,ChIJE578x500ZEcRAF6wdgGMXIs,230,4.8,-,-,-
+124879,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Panorama,"Barbecue, European, Grill, Eastern European, Croatian, Central European",,Croatia,KAR,Trg hrvatskih branitelja 4,45.52877,15.85724,+385 47 411 374,,,,,,,ChIJnwhuFi08ZEcRC00Q8EmVbJQ,86,4.1,-,-,-
+124880,sourcing_tripadvisor,sourcing_tripadvisor,Croata Sokol,,,Croatia,KAR,Kralja Tomislava 9,45.491169,15.5525,+385 47 601 779,,,,,,,ChIJf9_tITI8ZEcRnNicGSgMygQ,241,4.4,-,-,-
+124881,sourcing_tripadvisor,sourcing_tripadvisor,American Bar Dollar,"American, Barbecue, Bar",,Croatia,OSI,Zupanijska Ulica 5,45.560333,18.676554,+385 31 284 625,4,143,,,,Sun - Sat|9:00 AM - 12:00 AM,ChIJSaHX6qfnXEcRlZxVSfRCpMA,1509,4.4,-,-,-
+124882,sourcing_tripadvisor,sourcing_tripadvisor,bijelo plavi,"European, Croatian, Central European, Eastern European",,Croatia,OSI,Martina Divalta,45.548889,18.695278,+385 31 571 000,4.5,39,,,,,ChIJgbZSgLXnXEcRXnjN-6PDHeU,694,4.6,-,-,-
+124883,sourcing_tripadvisor,sourcing_tripadvisor,Caffe & Steak House Domin,"Steakhouse, Pizza, European, Grill, Croatian",,Croatia,OSI,St. Svete Ane 84,45.555008,18.672049,+385 95 889 1068,5,4,,,,Mon - Sat|11:00 AM - 11:00 PM,ChIJUQjKYdXoXEcRJTi0c15ziLY,319,4.1,-,-,-
+124884,sourcing_tripadvisor,sourcing_tripadvisor,City Food,Street Food,,Croatia,OSI,Zadarska 30,45.557838,18.673389,+385 31 320 315,5,1,,,,,ChIJU4G6AZvnXEcRX2RZUaMC5Ys,98,4.6,-,-,-
+124885,sourcing_tripadvisor,sourcing_tripadvisor,Club Lounge Bar,Cafe,,Croatia,OSI,Kapucinska Ulica 23,45.561039,18.68037,+385 31 210 933,,,,,,,ChIJg9ry9qbnXEcRg-aI2YohucA,339,4.4,-,-,-
+124886,sourcing_tripadvisor,sourcing_tripadvisor,Corner Restoran,"Barbecue, European, Croatian",,Croatia,OSI,Velebitska BB,45.545555,18.728193,+385 31 333 584,4,18,,,,,ChIJT3Yv_3voXEcRct3D5QWcCNQ,1139,4.5,-,-,-
+124887,sourcing_tripadvisor,sourcing_tripadvisor,Deram Carda,"European, Croatian, Hungarian",,Croatia,OSI,Ramska ulica 16,45.54737100000001,18.675119,+385 97 792 7441,5,1,,,,,ChIJHVRqC1PmXEcR5fzAFM_Je1Q,270,4.5,-,-,-
+124888,sourcing_tripadvisor,sourcing_tripadvisor,El Paso,,,Croatia,OSI,Shetalishte Kardinala Franje Shepera 8D,45.56263,18.679203,+385 98 205 077,4.5,65,,,,,ChIJo5r2iqPnXEcRaU2OEFCrn2A,102,4.5,-,-,-
+124889,sourcing_tripadvisor,sourcing_tripadvisor,Fabrique,,,Croatia,OSI,Trg Slobode vijenac jakova gotovca osijek,45.559292,18.678459,+385 95 203 0444,3.5,6,,,,Sun - Sat|9:00 AM - 11:00 PM,ChIJhwXmpajnXEcReCYsx0KF-qA,510,4.7,-,-,-
+124890,sourcing_tripadvisor,sourcing_tripadvisor,Fruitee,,,Croatia,OSI,"Avenue mall, Shopping centre Jankomir 33",,,+385 99 757 1110,4.5,6,,,,,-,-,-,-,-,-
+124891,sourcing_tripadvisor,sourcing_tripadvisor,Galija,"European, Croatian",,Croatia,OSI,Gornjodravska obala,45.56424699999999,18.676067,+385 31 283 500,4,45,,,,Sun - Sat|10:00 AM - 11:00 PM,ChIJ9xBnHwrnXEcRhcguy-mo9G8,849,4.4,-,-,-
+124892,sourcing_tripadvisor,sourcing_tripadvisor,Gastro Croatia,"Italian, Seafood, Mediterranean, European, Fusion, Croatian",,Croatia,OSI,Sunchana 8,45.557598,18.68162,+385 91 244 8822,,,,,,,ChIJf0GXTXbnXEcRrJ093cx33l8,-,-,-,-,-
+124893,sourcing_tripadvisor,sourcing_tripadvisor,Gold by Waldinger,"Cafe, European",,Croatia,OSI,Zhupanijska Ulica 15,45.55851,18.676035,+385 31 623 057,5,14,,,,Sun - Thu|8:00 AM - 11:00 PM|Fri - Sat|8:00 AM - 12:00 PM,ChIJI_PibajnXEcRdlROLGV0ddg,585,4.6,-,-,-
+124894,sourcing_tripadvisor,sourcing_tripadvisor,Hokus Okus - Magic Taste,"Fast Food, Street Food, Croatian, European",,Croatia,OSI,Ulica Hrvatske Republike 47,45.55827,18.676405,+385 95 530 6074,4.5,80,,,,Mon - Sat|9:00 AM - 11:00 PM,ChIJ87zkaKjnXEcR3OLatdml7uw,493,4.6,-,-,-
+124895,sourcing_tripadvisor,sourcing_tripadvisor,Karaka,"European, Croatian, Central European, International",,Croatia,OSI,Ulica Kneza Trpimira 16,45.549,18.692835,+385 31 203 400,4,57,,,,Sun - Thu|8:00 AM - 11:30 PM|Fri - Sat|8:00 AM - 12:00 AM,ChIJD_XwBrXnXEcRMxqKIjBAdsM,1207,4.4,-,-,-
+124896,sourcing_tripadvisor,sourcing_tripadvisor,Kod Baranjca,"European, Croatian",,Croatia,OSI,Biljska Cesta 54,45.565018,18.704023,,5,12,,,,,ChIJp5Gu7JTnXEcRkqPAync8FjE,595,4.7,-,-,-
+124897,sourcing_tripadvisor,sourcing_tripadvisor,Kod Javora,"Croatian, European",,Croatia,OSI,Donjodravska Obala 14,45.560749,18.71784,+385 31 506 950,4.5,16,,,,,ChIJdwExSt3nXEcRrGMgIoc7S1w,588,4.5,-,-,-
+124898,sourcing_tripadvisor,sourcing_tripadvisor,Kod Ruze,,,Croatia,OSI,J. Kuhaca 25,45.56041,18.694017,+385 31 206 066,4.5,246,,,,Sun|10:00 AM - 4:00 PM|Mon - Wed|10:00 AM - 11:00 PM|Thu - Sat|10:00 AM - 1:00 AM,ChIJwc4bxVDnXEcRh9J2bRTGZ5M,1118,4.6,-,-,-
+124899,sourcing_tripadvisor,sourcing_tripadvisor,Lipov hlad,"Croatian, Pizza, European",,Croatia,OSI,Trg Bana Josipa Jelachica 2,45.55627800000001,18.71629,+385 31 508 811,4.5,47,,,,Sun|11:00 AM - 11:00 PM|Mon - Sat|9:00 AM - 11:00 PM,ChIJFWXH2SznXEcRPHXOzJn4RGo,1313,4.5,-,-,-
+124900,sourcing_tripadvisor,sourcing_tripadvisor,Lounge Bar Waldinger,"Bar, Pub",,Croatia,OSI,Svilajska Ulica 31,45.556591,18.63521,+385 31 298 143,4,10,,,,,ChIJE9U9R9_mXEcRi0bznpVWKLo,154,4.3,-,-,-
+124901,sourcing_tripadvisor,sourcing_tripadvisor,Lumiere,"European, Croatian, Central European, International",,Croatia,OSI,Shetalishte Kardinala Franje Shepera 8,45.561668,18.682358,+385 31 201 088,4.5,112,,,,,ChIJ_y41wabnXEcRWWoUlB0cLls,10,4.3,-,-,-
+124902,sourcing_tripadvisor,sourcing_tripadvisor,Madarska Retfala,Barbecue,,Croatia,OSI,Ul. Sandora Petefija 22,45.5662,18.652208,+385 31 302 243,4.5,7,,,,,ChIJpTUJvY3lXEcR3q3CyiAFG-g,462,4.7,-,-,-
+124903,sourcing_tripadvisor,sourcing_tripadvisor,Makedonka,,,Croatia,OSI,Trg bana Jelacica 7,45.55611,18.71771,+385 31 503 403,4,1,,,,Sun - Sat|8:00 AM - 11:00 PM,ChIJFWXH2SznXEcR-4QYueSe2Dc,1613,4.6,-,-,-
+124904,sourcing_tripadvisor,sourcing_tripadvisor,McDonald's,Fast Food,,Croatia,OSI,Zhupanijska Ulica 7,45.56015,18.67671,+385 31 214 507,4.5,17,,,,,ChIJbzpNW6jnXEcRrnEriY_5abQ,2272,4.4,-,-,-
+124905,sourcing_tripadvisor,sourcing_tripadvisor,Mr. CinkOs,Cafe,,Croatia,OSI,Ulica Stjepana Radica 30,45.556591,18.68248,+385 97 720 9902,4.5,6,,,,Sun|5:00 PM - 11:00 PM|Mon - Sat|10:00 AM - 11:00 PM,ChIJCb7-b6_nXEcR7dFFw1tob4E,930,4.6,-,-,-
+124906,sourcing_tripadvisor,sourcing_tripadvisor,Mr. Jack grill house & bar,"European, Croatian",,Croatia,OSI,Zrinjevac 0,45.555481,18.67873,+385 31 290 551,4.5,3,,,,,ChIJIbNNRt3nXEcRsMPv31Ja2Fs,53,4.4,-,-,-
+124907,sourcing_tripadvisor,sourcing_tripadvisor,National Restaurant Gradski Podrum,"Barbecue, Grill",,Croatia,OSI,Zhupanijska Ulica 8,45.558701,18.67577,+385 31 250 450,5,4,,,,Fri - Sat|11:00 AM - 11:00 PM,ChIJ-7qkcqjnXEcRi_58qM3BWIs,10,3.9,-,-,-
+124908,sourcing_tripadvisor,sourcing_tripadvisor,Ober Lunch Bar,"European, Croatian",,Croatia,OSI,"Ivana Adamovica 2, 31000 Osijek",45.56041,18.68189,+385 91 203 1116,4.5,7,,,,Mon - Sat|9:00 AM - 6:00 PM,ChIJt3MBfabnXEcRZRU2gmG1QS4,126,4.5,-,-,-
+124909,sourcing_tripadvisor,sourcing_tripadvisor,Old Bridge Pub,"European, Croatian",,Croatia,OSI,Kuhaceva 4,45.562031,18.679991,+385 31 211 611,4,11,,,,,-,-,-,-,-,-
+124910,sourcing_tripadvisor,sourcing_tripadvisor,Petar Pan,,,Croatia,OSI,Ribarska 1,45.562462,18.67655,+385 31 283 626,4,17,,,,,ChIJSedodejgXEcRTiR2ryUWtjk,1587,4.5,-,-,-
+124911,sourcing_tripadvisor,sourcing_tripadvisor,Pivnica Merlon,,,Croatia,OSI,Ulica Franje Markovica 3,45.559952,18.69516,+385 31 283 240,4,53,,,,Sun|9:00 AM - 11:00 PM|Mon - Wed|8:00 AM - 12:00 AM|Thu|8:00 AM - 1:00 AM|Fri - Sat|8:00 AM - 2:00 AM,ChIJmxed5rvnXEcRThaf9YXyTS4,1576,4.5,-,-,-
+124912,sourcing_tripadvisor,sourcing_tripadvisor,Pizza Grill caffe Hamby,"European, Croatian",,Croatia,OSI,Dr. Franje Tudmana 1 Koska,,,+385 31 681 580,5,2,,,,Mon - Fri|6:00 AM - 11:00 PM|Sat - Sun|6:00 AM - 12:00 AM,-,-,-,-,-,-
+124913,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria La Rosa,"Italian, Cafe, European, Street Food, Croatian",,Croatia,OSI,Martina Divalta 22,45.548969,18.696659,+385 31 570 500,5,2,,,,,ChIJ7Zt1b8rnXEcRcWkUgd5GQJQ,495,4.6,-,-,-
+124914,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Novi Saloon,"Italian, Grill, Pizza",,Croatia,OSI,Street Kneza Trpimira 23,45.544151,18.69356,+385 31 572 060,4,14,,,,,ChIJGV0iFNfnXEcRV9-eGvatf-4,1509,4.6,-,-,-
+124915,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Oliva,"Pizza, European, Croatian",,Croatia,OSI,Franje Kuhacha 8a,45.560459,18.69466,+385 31 202 040,4.5,10,,,,,ChIJWYA7pi3mXEcRXYMpWHPlsD0,406,4.3,-,-,-
+124916,sourcing_tripadvisor,sourcing_tripadvisor,Pressing Cafe,,,Croatia,OSI,Gornjodravska Obala 79,45.562908,18.676689,,,,,,,,ChIJLyeoX6fnXEcRIbrIlydA4NI,273,4.5,-,-,-
+124917,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Club Waldinger,"European, International, Croatian",,Croatia,OSI,Zhupanijska Ulica 8,45.558678,18.675455,+385 31 250 450,4.5,30,,,,Mon - Sat|11:00 AM - 11:00 PM,ChIJbzpNW6jnXEcR124WL6Mi-_M,216,4.7,-,-,-
+124918,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Kompa,"Croatian, European",,Croatia,OSI,Splavarska 1,45.565807,18.669168,+385 31 375 755,4.5,29,,,,Sun - Sat|10:00 AM - 10:00 PM,ChIJi5KX4Q3nXEcRZp2WnYXDd80,668,4.6,-,-,-
+124919,sourcing_tripadvisor,sourcing_tripadvisor,Rustika,"Italian, Pizza, European, Croatian, Central European",,Croatia,OSI,Ulica Pavla Pejachevica 32,45.562119,18.671705,+385 31 369 400,4.5,167,,,,Sun|8:30 AM - 12:00 AM|Mon - Sat|7:00 AM - 12:00 AM,ChIJddicRAjnXEcRax_doTWIU1E,2279,4.5,-,-,-
+124920,sourcing_tripadvisor,sourcing_tripadvisor,Slatka Tvornica,"Croatian, American, Fast Food, European, Street Food",,Croatia,OSI,Ulica Kardinala Alojzija Stepinca 14,45.556648,18.685919,+385 31 655 555,5,5,,,,Sun|4:00 PM - 11:00 PM|Mon - Sat|12:00 AM - 11:00 PM,ChIJdf-fOsPnXEcRN3i0_CMV9so,150,4.5,-,-,-
+124921,sourcing_tripadvisor,sourcing_tripadvisor,Slavonska KuCa,"European, Croatian",,Croatia,OSI,Ulica Kamila Firingera 26,45.560154,18.693092,+385 31 369 955,4.5,83,,,,Mon - Sat|9:00 AM - 11:00 PM,ChIJhQy73rvnXEcRqcOWVnIhuIo,794,4.5,-,-,-
+124922,sourcing_tripadvisor,sourcing_tripadvisor,Spajz j.d.o.o.,"Fast Food, European, Healthy, Croatian",,Croatia,OSI,Ulica Stjepana Radica 18,45.55846,18.682388,+385 99 669 3362,,,,,,,ChIJy7C69KXnXEcRsA2nKMQRMDk,119,4.7,-,-,-
+124923,sourcing_tripadvisor,sourcing_tripadvisor,SportHouse,Pizza,,Croatia,OSI,Trg Lavoslava Ruzicke b.b.,45.55349,18.684919,+385 31 215 555,4.5,30,,,,,ChIJo9SJ7rHnXEcRLRst-4E1Q1E,547,4.6,-,-,-
+124924,sourcing_tripadvisor,sourcing_tripadvisor,Vege Lege,"Fast Food, European, Croatian",,Croatia,OSI,Gajev Trg 4,45.559341,18.683699,+385 31 445 440,5,27,,,,Mon - Fri|9:00 AM - 7:00 PM|Sat|10:00 AM - 3:00 PM,ChIJdXQ9vKXnXEcRG_RdvkXhvos,233,4.7,-,-,-
+124925,sourcing_tripadvisor,sourcing_tripadvisor,Vinska Musica,"Fast Food, European, Eastern European, Croatian",,Croatia,OSI,Kapucinska Ulica 39,45.561039,18.67836,+385 92 350 9939,4,1,,,,,ChIJURpkqafnXEcRqL3bpE9P8Ms,192,4.6,-,-,-
+124926,sourcing_tripadvisor,sourcing_tripadvisor,Zeleni Val,,,Croatia,OSI,Zupanijska ul. 22,,,+385 31 200 864,4.5,3,,,,Sun - Sat|8:00 AM - 11:30 PM,-,-,-,-,-,-
+124927,sourcing_tripadvisor,sourcing_tripadvisor,Zimska Luka,"Croatian, International",,Croatia,OSI,Hotel Osijek Samacka 4,45.562222,18.679722,+385 31 230 360,4.5,48,,,,Sun - Sat|11:00 AM - 12:00 AM,ChIJmbzNN6fnXEcRX8GJLxkRwKo,5,4.6,-,-,-
+124928,sourcing_tripadvisor,sourcing_tripadvisor,Zoo Hotel Restaurant,"European, Croatian",,Croatia,OSI,Sjevernodravska obala bb,45.568401,18.668289,+385 31 229 922,4,16,,,,,ChIJm4IFdLfnXEcRK2GxNbxT_Js,383,4.5,-,-,-
+124929,sourcing_tripadvisor,sourcing_tripadvisor,Epulon Food & Wine,,,Croatia,PUY,Epulonova Ul 4,44.868881,13.849719,+385 98 949 9023,4.5,822,,,,Thu|1:00 PM - 10:00 PM|Fri - Wed|1:00 PM - 10:30 PM,ChIJ49WR_crTfEcR6jTxpKTGe54,291,4.5,-,-,-
+124930,sourcing_tripadvisor,sourcing_tripadvisor,TiVoli,"Italian, Pizza, Mediterranean, European",,Croatia,PUY,Veli Vrh bb Sportski Centar,44.889626,13.851164,+385 52 508 000,4.5,892,,,,Tue|2:00 PM - 11:00 PM|Wed - Sun|10:00 AM - 11:00 PM,ChIJ1RKocpPSfEcRFoGPrAjiDgA,4426,4.7,-,-,-
+124931,sourcing_tripadvisor,sourcing_tripadvisor,Fresh sandwiches & salads,"Fast Food, Fusion, Healthy, Street Food",,Croatia,PUY,Anticova Ulica 5,44.867668,13.845596,+385 91 722 7712,4.5,161,,,,Mon - Fri|8:00 AM - 3:30 PM,ChIJ-xtXpR_TfEcRRG2RpEkxPuE,155,4.7,-,-,-
+124932,sourcing_tripadvisor,sourcing_tripadvisor,Piantina Fine Fast Food,"Fast Food, European, Healthy",,Croatia,PUY,Zadarska Ulica 1,44.870007,13.848839,+385 91 578 7970,4.5,132,,,,,ChIJ0wjOCtHTfEcRi1g3DXtAdBM,543,4.7,-,-,-
+124933,sourcing_tripadvisor,sourcing_tripadvisor,Piazza Nove,,,Croatia,PUY,Kapitolinski Trg 9,44.870289,13.841801,+385 92 345 5407,4.5,342,,,,Sun - Sat|12:00 AM - 10:00 PM,ChIJyxI1ib7TfEcRfXmt67ayBv0,297,4.6,-,-,-
+124934,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Batelina,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Chimulje 25,44.824699,13.866531,+385 52 573 767,4.5,448,,,,Mon - Sat|5:00 PM - 11:30 PM,ChIJjcfWjVkrY0cRzDk0FzPV3IE,496,4.7,-,-,-
+124935,sourcing_tripadvisor,sourcing_tripadvisor,Valli Delicious Restaurant,,,Croatia,PUY,Kapitolinski Trg 7,44.870377,13.841993,+385 95 199 5354,4.5,485,,,,Fri|12:30 PM - 12:00 AM|Sat - Thu|12:00 PM - 12:00 AM,ChIJGzhLLvTTfEcRqE2audB6OPA,2,5,-,-,-
+124936,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Boccaporta,,,Croatia,PUY,Ulica Dolinka 18,44.851662,13.860505,+385 52 506 266,4.5,608,,,,Sun|11:00 AM - 11:00 PM|Mon - Sat|10:30 AM - 11:00 PM,ChIJV6RnMTTTfEcRn91Ij0W-bQA,1986,4.6,-,-,-
+124937,sourcing_tripadvisor,sourcing_tripadvisor,Farabuto,,,Croatia,PUY,Ulica Sisplac 15,44.85542299999999,13.834239,+385 52 386 074,4.5,830,,,,,ChIJgebwvhPTfEcRqryfKT40GCc,545,4.6,-,-,-
+124938,sourcing_tripadvisor,sourcing_tripadvisor,BOCA bar,,,Croatia,PUY,Kandlerova Ulica 34,44.871506,13.844866,+385 52 382 390,4.5,239,,,,,ChIJMXX0kOHSfEcRINnK-esGYuA,146,4.5,-,-,-
+124939,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Oasi,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,"Pjescana uvala X12a, Pula",44.838692,13.850556,+385 52 397 910,4.5,332,,,,Sun - Sat|3:00 PM - 10:00 PM,ChIJwczoSKwsY0cRxjh6edYBlsY,36,4.7,-,-,-
+124940,sourcing_tripadvisor,sourcing_tripadvisor,Vodnjanka - Trattoria,,,Croatia,PUY,Viteziceva Ulica 4,44.861664,13.846596,+385 98 175 7343,4.5,508,,,,Mon - Fri|12:00 PM - 4:00 PM|Mon - Sat|7:00 PM - 9:00 PM|Sat|12:00 PM - 3:00 PM,ChIJOeMY98_TfEcRs5w1w6RR-Qs,8,5,-,-,-
+124941,sourcing_tripadvisor,sourcing_tripadvisor,Villa Margerita,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,VIII. Ogranak Br. 22,44.837952,13.847389,+385 52 210 886,4.5,246,,,,Sun|9:00 AM - 10:00 AM,ChIJn9wmjlDTfEcRha9N2EtK2Kc,257,4.7,-,-,-
+124942,sourcing_tripadvisor,sourcing_tripadvisor,Hook and Cook Pula,"Seafood, Fast Food, Mediterranean, European",,Croatia,PUY,Ulica Sergijevaca 18,44.86869799999999,13.844442,+385 97 610 5322,4.5,460,,,,,ChIJlaDQuc_TfEcRK69tQ0yNxO8,981,4.5,-,-,-
+124943,sourcing_tripadvisor,sourcing_tripadvisor,Mediterraneo Restaurant,,,Croatia,PUY,Ulica Sergijevaca 5,44.869392,13.843012,+385 97 706 0525,4.5,653,,,,,ChIJq-bjJxrTfEcRs0j13SlFbik,336,4.1,-,-,-
+124944,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Alighieri,,,Croatia,PUY,Danteov Trg 3,44.867767,13.844799,+385 52 381 984,4,945,,,,,ChIJGdZ_Ux7TfEcRnC9RbRdHoKk,1069,4.5,-,-,-
+124945,sourcing_tripadvisor,sourcing_tripadvisor,Jupiter,"Italian, Croatian, Asian",,Croatia,PUY,Ulica Castropola 42,44.871216,13.846261,+385 52 214 333,4,1801,,,,Sun|1:00 PM - 11:00 PM|Mon - Fri|11:00 AM - 11:00 PM|Sat|12:00 AM - 11:00 PM,ChIJzQXOseHSfEcRUIchfkJ0b_s,5121,4.6,-,-,-
+124946,sourcing_tripadvisor,sourcing_tripadvisor,OAZA Restaurant,,,Croatia,PUY,Paduljski Put 3,44.890121,13.845259,+385 52 534 043,4.5,248,,,,Sun - Sat|9:00 AM - 11:00 PM,ChIJoWNAa43SfEcR5SA7bgJTzjs,623,4.5,-,-,-
+124947,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Asterix,"Italian, Pizza, Mediterranean, European",,Croatia,PUY,Piranesijev Prilaz 11,44.85638400000001,13.849561,+385 52 223 680,4.5,181,,,,Mon - Fri|11:00 AM - 11:00 PM|Sat - Sun|12:00 PM - 11:00 PM,ChIJD6o1jjvTfEcRpWk1x55h4Uc,1529,4.6,-,-,-
+124948,sourcing_tripadvisor,sourcing_tripadvisor,Furia,,,Croatia,PUY,Narodni Trg 9,44.866943,13.849217,+385 97 791 6306,4.5,93,,,,Mon - Sat|9:00 AM - 2:00 PM,ChIJNzkYtCHTfEcRwQC0QRTcQPQ,142,4.5,-,-,-
+124949,sourcing_tripadvisor,sourcing_tripadvisor,Kod Kadre,,,Croatia,PUY,"Teslina Ulica 51 Pula, Istarska 52100",44.874943,13.85323,+385 52 213 770,4,483,,,,Mon - Sat|10:00 AM - 11:00 PM,ChIJtV9bwN3SfEcR9NBdYV5l6b4,1191,4.5,-,-,-
+124950,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Kantina Pula,,,Croatia,PUY,Flanatichka Ulica 16,44.867153,13.850409,+385 52 214 054,4,855,,,,,ChIJg6hKUCDTfEcRtcz3fGH1fvQ,786,4.3,-,-,-
+124951,sourcing_tripadvisor,sourcing_tripadvisor,Pecenjara Porat,"Barbecue, European, Eastern European, Croatian",,Croatia,PUY,Schiavuzzijev Prilaz 3,44.851982,13.851472,+385 52 506 311,4.5,134,,,,,ChIJyyhfNjjTfEcRjjfGDGj6zPk,285,4.4,-,-,-
+124952,sourcing_tripadvisor,sourcing_tripadvisor,Street Food Two,"Street Food, Soups, Croatian",,Croatia,PUY,Veronska Ulica 2a,44.868423,13.849403,+385 52 203 236,5,37,,,,Mon - Thu|10:00 AM - 5:00 PM|Fri|10:00 AM - 4:00 PM,ChIJ_bMiEj7TfEcRbulkU7PBpc0,129,4.9,-,-,-
+124953,sourcing_tripadvisor,sourcing_tripadvisor,Ribarska koliba restaurant,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Ulica Verudella 16 Ribaska koliba restaurant,44.841328,13.83959,+385 52 222 966,4,510,,,,Sun - Sat|12:00 PM - 10:00 PM,ChIJp2wUxFzTfEcR9AICNCEcgKc,366,4.5,-,-,-
+124954,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Lanterna,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Pjescana Uvala v/1 am Leutturm,44.837044,13.849158,,4,201,,,,,ChIJvTKb-vDAfEcRYqqgdzstovA,24,4.5,-,-,-
+124955,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Peperoncino,"Italian, Pizza, European",,Croatia,PUY,Medulinska Cesta 15,44.860001,13.870808,+385 52 639 995,4.5,113,,,,,ChIJcajXItMsY0cRUMJ0L0mfZu0,896,4.5,-,-,-
+124956,sourcing_tripadvisor,sourcing_tripadvisor,Peekaboo - Pizzeria,"Italian, Pizza",,Croatia,PUY,Flavijevska Ulica 12,44.874832,13.850156,+385 52 543 878,4.5,139,,,,Mon - Fri|11:59 AM - 10:00 PM|Sat - Sun|10:00 AM - 10:00 PM,ChIJodcWQOfSfEcRje_4z5gyoaY,1325,4.6,-,-,-
+124957,sourcing_tripadvisor,sourcing_tripadvisor,Kavana & Tapas Bar Corso,"Bar, International, Street Food, European",,Croatia,PUY,Giardini 2,44.869576,13.848429,+385 91 301 2025,4.5,174,,,,Sun|8:00 AM - 12:00 AM|Mon - Wed|7:00 AM - 12:00 AM|Thu - Fri|7:00 AM - 2:00 AM|Sat|8:00 AM - 2:00 AM,ChIJH4hsA-DSfEcRwN0hqsl2Iyw,432,4.2,-,-,-
+124958,sourcing_tripadvisor,sourcing_tripadvisor,Marco Polo,"Italian, Pizza, Mediterranean, European",,Croatia,PUY,Coceicheva Ul. 5,44.849724,13.849218,+385 52 394 400,4,170,,,,,ChIJ471fhEfTfEcRcZ6RFwopJMs,587,4.3,-,-,-
+124959,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Istriana,,,Croatia,PUY,Pomer 331,44.82473,13.893652,+385 95 395 0914,4,646,,,,Mon - Tue|4:00 PM - 11:00 PM|Thu - Fri|4:00 PM - 11:00 PM|Sat - Sun|2:00 PM - 11:00 PM,ChIJoxtymH0rY0cRbzWM_T65h2Q,553,4.2,-,-,-
+124960,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Samantha,"Pizza, Italian, European",,Croatia,PUY,Labinska Ulica 11,44.887196,13.865877,+385 52 535 665,4.5,55,,,,Mon - Fri|9:30 AM - 11:00 PM|Sat - Sun|1:00 PM - 11:00 PM,ChIJ-SkK67jSfEcRIjF1OYoVrSw,1293,4.7,-,-,-
+124961,sourcing_tripadvisor,sourcing_tripadvisor,El Pulari Parasol,"Mexican, Latin, Spanish",,Croatia,PUY,Ulica Rimske Centurijacije 67,44.869167,13.862339,542-240,4,151,,,,,ChIJpbRBkNfSfEcR8EZAANfg_Po,1244,4.6,-,-,-
+124962,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Kazun,"Mediterranean, European, Croatian, Seafood",,Croatia,PUY,Prekomorskih Brigada 31,44.882504,13.862443,+385 52 223 184,4,194,,,,Sun - Sat|11:00 AM - 11:00 PM,ChIJSUqvrcbSfEcRqHSn_vPL8jY,777,4.5,-,-,-
+124963,sourcing_tripadvisor,sourcing_tripadvisor,Street Food Mini Mini,"Sushi, Soups, European, Healthy, Street Food",,Croatia,PUY,Mletachka Ulica 12,44.86817199999999,13.851992,+385 99 445 6190,4.5,53,,,,Mon - Fri|9:00 AM - 4:00 PM,ChIJa2tzhCDTfEcRtHk1L5MmR2k,119,4.2,-,-,-
+124964,sourcing_tripadvisor,sourcing_tripadvisor,Orfej,,,Croatia,PUY,Kandlerova Ulica corner of Uspon Konzula Istranina,44.870663,13.842375,+385 52 214 405,3.5,507,,,,,ChIJf3PJEeLSfEcRiwYV15m78Ag,942,4.2,-,-,-
+124965,sourcing_tripadvisor,sourcing_tripadvisor,Yacht Club,"Seafood, Mediterranean, Croatian, European",,Croatia,PUY,Ulica Verudella 17,44.835335,13.840486,,4,189,,,,,ChIJYZjoboTTfEcRstO4ov2y3CI,84,4.3,-,-,-
+124966,sourcing_tripadvisor,sourcing_tripadvisor,Milan,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Ulica Stoja 4,44.860844,13.827047,,4,123,,,,,-,-,-,-,-,-
+124967,sourcing_tripadvisor,sourcing_tripadvisor,Pecenjara Mons,"Grill, Croatian, Barbecue",,Croatia,PUY,Creska Ulica 2,44.890419,13.846692000000001,+385 52 553 679,4.5,80,,,,Mon|10:00 AM - 11:00 PM|Wed - Fri|10:00 AM - 11:00 AM|Sat - Sun|12:00 AM - 11:00 AM,ChIJe4mKfY3SfEcRvee1Os_st4k,704,4.6,-,-,-
+124968,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Topaz,,,Croatia,PUY,Ulica Monte Paradiso 40,44.85001,13.84287,+385 91 304 0232,5,24,,,,Mon - Sat|10:00 AM - 6:00 PM,ChIJQW6hqMrTfEcROkmw36oXX80,99,4.7,-,-,-
+124969,sourcing_tripadvisor,sourcing_tripadvisor,Kuglana,,,Croatia,PUY,Ulica Verudella 11,44.836704,13.83711,,4,305,,,,,ChIJlWl5uV7TfEcRFZWG6BWFI4s,132,4.2,-,-,-
+124970,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Bodulka,,,Croatia,PUY,ulica Franje Mosnje 3b,44.850399,13.942769,+385 52 300 621,4.5,102,,,,Sun - Sat|1:00 PM - 11:00 PM,ChIJw--tXDYsY0cRwVuYFFMOdW0,-,-,-,-,-
+124971,sourcing_tripadvisor,sourcing_tripadvisor,Bunarina,,,Croatia,PUY,Ulica Verudella 9,44.839329,13.837607,+385 91 274 6255,4,163,,,,Sun - Sat|5:00 PM - 11:00 PM,ChIJW7BlU1zTfEcRWfaax3ruoMQ,524,4.5,-,-,-
+124972,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Galeb,"Croatian, Seafood, Mediterranean, European",,Croatia,PUY,Osjechka Ulica 37,44.859001,13.829444,+385 52 368 361,4.5,39,,,,,ChIJybRWRg7TfEcR9AeUNBhesMw,311,4.4,-,-,-
+124973,sourcing_tripadvisor,sourcing_tripadvisor,The Shipyard Pub,"Bar, Street Food, Pub",,Croatia,PUY,Ulica Svetog Teodora 1,44.872261,13.845423,+385 97 792 6024,4,150,,,,Sun - Thu|8:00 AM - 12:00 AM|Fri - Sat|8:00 AM - 2:00 AM,ChIJ3fqUCuHSfEcRRcd6Tmel-JQ,1914,4.5,-,-,-
+124974,sourcing_tripadvisor,sourcing_tripadvisor,Rendez-vous,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Kandlerova Ulica 32,44.871376,13.844528,3855223072,4,125,,,,,ChIJ8_NLkOHSfEcRP0fm7-hitgg,181,4.4,-,-,-
+124975,sourcing_tripadvisor,sourcing_tripadvisor,Backyard by: Istrian culinaris,"Mediterranean, Seafood, European, Croatian",,Croatia,PUY,Emova Ulica 12,44.87435900000001,13.851439,+385 99 497 6222,5,23,,,,Sun - Sat|8:00 AM - 11:00 AM,ChIJh0RD95fTfEcRj019-W0A3IY,142,4.9,-,-,-
+124976,sourcing_tripadvisor,sourcing_tripadvisor,Tappo,,,Croatia,PUY,Istarska Ulica 38,44.872452,13.849172,+385 95 905 2338,4,164,,,,Sun - Sat|8:00 AM - 12:00 AM,ChIJtU10leDSfEcRBMMpMCEQnd8,447,4.4,-,-,-
+124977,sourcing_tripadvisor,sourcing_tripadvisor,Pecenjara Edi,"Seafood, Croatian, Mediterranean, European",,Croatia,PUY,Kandlerova Ulica 21,44.87115900000001,13.843392,+385 91 525 6967,4.5,53,,,,,-,-,-,-,-,-
+124978,sourcing_tripadvisor,sourcing_tripadvisor,Pomodoro,"Italian, Pizza, Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Sergijevaca,44.869148,13.843331,+385 52 218 093,3.5,262,,,,,ChIJE_J3BR7TfEcRFBpv9mSYeps,196,4,-,-,-
+124979,sourcing_tripadvisor,sourcing_tripadvisor,Stari Grad,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Ulica Sisplac 3,44.856342,13.834606,+385 52 386 808,4,152,,,,,ChIJ75KWqWrTfEcRlYi4wRh_lU0,1,5,-,-,-
+124980,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Taj,"European, Croatian, Seafood, Mediterranean",,Croatia,PUY,Ulica Shkokovica 23,44.859596,13.869343,+385 99 420 4900,4.5,32,,,,,ChIJe3o0Oy3TfEcRyY5TNhc_MFc,499,4.6,-,-,-
+124981,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria In Forno,"Pizza, Italian",,Croatia,PUY,Shijanska Cesta 12 a,44.885952,13.873617,+385 97 651 3535,4.5,59,,,,Sun - Sat|10:00 AM - 12:00 AM,ChIJvVTnRbbSfEcRZCEq3LKv0Yc,448,4.6,-,-,-
+124982,sourcing_tripadvisor,sourcing_tripadvisor,Papillon Restaurant & Pizzeria,"Pizza, Seafood, Mediterranean, European, Diner, Croatian",,Croatia,PUY,De Franceschijeva Ulica 23,44.848801,13.85113,+385 52 218 812,4.5,37,,,,Sun - Sat|12:00 PM - 11:00 PM,ChIJczK3YoDTfEcRYH4SzYWRjxM,203,4.6,-,-,-
+124983,sourcing_tripadvisor,sourcing_tripadvisor,Volaria restaurant,"Seafood, European, Croatian",,Croatia,PUY,Pier 10 Veruda Waterfront,44.84343,13.843617,+385 52 385 387,4,107,,,,,ChIJn4qip1vTfEcRFxfr7eavO3E,5,4.8,-,-,-
+124984,sourcing_tripadvisor,sourcing_tripadvisor,Old City Bar,"Bar, Pub",,Croatia,PUY,Danteov Trg 1,44.868187,13.84475,+385 52 222 944,3.5,375,,,,Sun|8:30 AM - 2:30 AM|Mon - Fri|6:30 AM - 2:30 AM|Sat|7:00 AM - 2:30 AM,ChIJKeoTzV3TfEcRc7wmYnToX8E,1033,4.4,-,-,-
+124985,sourcing_tripadvisor,sourcing_tripadvisor,Gina restaurant,,,Croatia,PUY,Ulica Stoja 23,44.861626,13.819253,+385 52 387 943,3.5,223,,,,,ChIJIT6MufvTfEcRUGtFYomLPOQ,124,4.5,-,-,-
+124986,sourcing_tripadvisor,sourcing_tripadvisor,Sareni Papar,"European, Mediterranean, Croatian",,Croatia,PUY,Dobricheva Ulica 4,44.869244,13.849492,+385 91 971 1538,4.5,50,,,,Mon - Fri|9:00 AM - 6:00 PM,-,-,-,-,-,-
+124987,sourcing_tripadvisor,sourcing_tripadvisor,fish-food MORE,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Rizzijeva Ulica 47,44.858353,13.844407,+385 52 211 549,4,218,,,,,ChIJ22nzcD3TfEcRnSGDniPnBDA,469,4,-,-,-
+124988,sourcing_tripadvisor,sourcing_tripadvisor,Ozujsko Pub Zaobilaznica,,,Croatia,PUY,Dukiceva Ulica 1,44.878445,13.86624,+385 52 825 693,4.5,29,,,,Sun|8:00 AM - 12:00 AM|Mon - Thu|7:00 AM - 12:00 AM|Fri - Sat|7:00 AM - 2:00 AM,ChIJ4ZNA47zTfEcRvndJDm6qqpw,1314,4.8,-,-,-
+124989,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Admiral,"Seafood, Mediterranean, Croatian, European",,Croatia,PUY,Jelusicev Prilaz 2,44.84817899999999,13.8473,+385 99 782 7199,4,63,,,,,ChIJE8LF3kbTfEcR11Vxm2b6sYo,314,4.5,-,-,-
+124990,sourcing_tripadvisor,sourcing_tripadvisor,Caruso,"Italian, Pizza, Seafood, Mediterranean, European",,Croatia,PUY,Gortanova Ulica 12,44.855904,13.832921,+385 98 206 092,4,67,,,,,ChIJI3stSBLTfEcRvstg1asciTY,410,4.3,-,-,-
+124991,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Karlo,"Seafood, Mediterranean, Barbecue, Croatian, European",,Croatia,PUY,Ulica Stoja 28,44.861057,13.820663,+385 52 386 640,4,74,,,,Sun - Sat|12:00 PM - 10:00 PM,ChIJZd0BlafTfEcR6hsnY7a7bRo,294,4.3,-,-,-
+124992,sourcing_tripadvisor,sourcing_tripadvisor,Stellina,"Pizza, Seafood, Mediterranean, Croatian, Italian, Barbecue",,Croatia,PUY,Krse bb Premantura,44.802887,13.911484,+385 98 440 999,4,186,,,,,ChIJxWkJab4rY0cRf__Bem7vwAU,866,4.2,-,-,-
+124993,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Dva Ferala,"Mediterranean, Croatian, Seafood, European",,Croatia,PUY,Kandlerova Ulica 32,44.871456,13.844641,+385 52 223 365,4,88,,,,,ChIJ6y5RkOHSfEcRjIQAk9_HptM,222,4.4,-,-,-
+124994,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Essenza,"Seafood, Mediterranean, Croatian, European",,Croatia,PUY,Sijanska Cesta 24,44.890568,13.886359,+385 99 648 6819,4.5,33,,,,Wed|4:00 PM - 11:00 PM,ChIJLY86F4gtY0cRN_a7FLBWj7k,29,5,-,-,-
+124995,sourcing_tripadvisor,sourcing_tripadvisor,Odisej,"European, Croatian, Barbecue",,Croatia,PUY,Arsenalska Ulica 7,44.862904,13.840522,+385 52 223 288,4,177,,,,Mon - Fri|6:00 AM - 11:00 PM|Sat - Sun|9:00 AM - 11:00 PM,ChIJr5WlnRnTfEcRJK9ZF3GnWO4,1011,4.3,-,-,-
+124996,sourcing_tripadvisor,sourcing_tripadvisor,El Pulari Mexican,Mexican,,Croatia,PUY,Ulica Rimske Centurijacije 67,44.869167,13.862337,+385 52 542 240,4,40,,,,,ChIJpbRBkNfSfEcR8EZAANfg_Po,1244,4.6,-,-,-
+124997,sourcing_tripadvisor,sourcing_tripadvisor,restaurant Fantasia,"Seafood, Croatian, Mediterranean, European",,Croatia,PUY,Palisina Ulica 29,44.850929,13.849452,+385 52 506 306,4,44,,,,Mon - Sat|12:00 PM - 10:00 PM,ChIJ--pCfTjTfEcRJXK2cUB_k9c,46,4.8,-,-,-
+124998,sourcing_tripadvisor,sourcing_tripadvisor,Da Piero II,"Pizza, Seafood, European, Croatian",,Croatia,PUY,Forum 1,44.869282,13.842824,,3.5,171,,,,,ChIJdSxrBh7TfEcRxAqK0qHPzCs,93,4.1,-,-,-
+124999,sourcing_tripadvisor,sourcing_tripadvisor,La Cuxina,"Seafood, European, Croatian, Mediterranean",,Croatia,PUY,Ulica Benediktinske Opatije 1/52100,44.86908,13.843503,+385 52 225 580,3.5,229,,,,,ChIJGx4XEB7TfEcRJAztLvuA9pw,148,3.6,-,-,-
+125000,sourcing_tripadvisor,sourcing_tripadvisor,Hotel Amfiteatar Restaurant,,,Croatia,PUY,Amfiteatarska Ulica 6,44.872417,13.848267,+385 52 375 600,3.5,218,,,,,ChIJ-VDY7uDSfEcRjbg4QQJonlg,269,4.2,-,-,-
+125001,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Barkun,"Pizza, Bar, Cafe, Pub",,Croatia,PUY,Krlezhina Ulica 15,44.855064,13.842169,+385 52 391 212,4,75,,,,Mon - Fri|10:00 AM - 10:00 PM|Sat - Sun|12:00 AM - 10:00 PM,ChIJ49HdGD7TfEcR0UhFZ_ObtGU,779,4.4,-,-,-
+125002,sourcing_tripadvisor,sourcing_tripadvisor,Valter Restaurant and Tennis - Restoran Pula,,,Croatia,PUY,Lungomare 1,44.855587,13.826194,+385 52 387 589,4,95,,,,Sun - Sat|9:00 AM - 11:00 PM,ChIJ6Ul4yg3TfEcRaED5YJ2PQn0,115,3.8,-,-,-
+125003,sourcing_tripadvisor,sourcing_tripadvisor,Fiorin,,,Croatia,PUY,Ulica Sergijevaca 24,44.868599,13.844776,+385 52 212 322,4.5,21,,,,,ChIJxbH-OB7TfEcRJaErofO9pR4,215,4.6,-,-,-
+125004,sourcing_tripadvisor,sourcing_tripadvisor,Konoba VOLME - Porto Paltana,"Croatian, European",,Croatia,PUY,"Banjole, Volme 5 Orange House on Top of The Hill",44.81897,13.87962,+385 95 501 5664,4.5,28,,,,,ChIJv-GKDWYrY0cR7jfukpBMQeE,89,4.5,-,-,-
+125005,sourcing_tripadvisor,sourcing_tripadvisor,Popaj,"Seafood, Mediterranean, Croatian",,Croatia,PUY,Maksimijanova Street 4,44.923805,13.801717,+385 91 515 4104,4,64,,,,,ChIJNbiCQB7TfEcRktBwZfvNvyc,129,4.2,-,-,-
+125006,sourcing_tripadvisor,sourcing_tripadvisor,Villa Vulin,"Italian, International, Mediterranean, European, Croatian, Central European",,Croatia,PUY,Tommaseova Ulica 10 Boutique Hotel Villa Vulin,44.85453,13.835131,+385 52 393 990,4.5,27,,,,Sun - Sat|8:00 AM - 11:00 PM,ChIJ-VV_hBPTfEcR0B9QdcDIh2Q,57,4.4,-,-,-
+125007,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant OLIVA,,,Croatia,PUY,Verudela,44.83522,13.837553,+385 52 590 790,3.5,103,,,,Sun - Sat|10:00 AM - 11:00 PM,-,-,-,-,-,-
+125008,sourcing_tripadvisor,sourcing_tripadvisor,Hotel Restaurant Galija,"Croatian, Pizza",,Croatia,PUY,Epulonova Ulica 3,44.869041,13.84961,+385 52 383 802,4,31,,,,Sun - Sat|1:00 PM - 10:00 PM,ChIJ6ZCw-d_SfEcR0vI9L9In5sc,208,3.8,-,-,-
+125009,sourcing_tripadvisor,sourcing_tripadvisor,Caffe bar Circolo 17,Wine Bar,,Croatia,PUY,Carrarina Ulica 1,44.869919,13.84774,+385 98 548 800,4.5,18,,,,Mon - Thu|7:00 AM - 10:30 PM|Fri - Sat|7:00 AM - 11:59 PM,ChIJmylFFeDSfEcRyaQF_7ouLVI,351,4.6,-,-,-
+125010,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Markat,"European, Croatian",,Croatia,PUY,Trg Prvog Svibnja 5,44.867081,13.84847,+385 52 223 284,4.5,19,,,,,ChIJY0TYLyDTfEcREl-pjBu2O7U,160,4.4,-,-,-
+125011,sourcing_tripadvisor,sourcing_tripadvisor,Enoteca Istriana,"European, Wine Bar, Croatian",,Croatia,PUY,Forum 11,44.86985,13.842343,+385 99 323 6541,4,67,,,,Sun - Sat|8:00 AM - 10:00 PM,ChIJBX0c-R3TfEcRq3xMIwNMClw,146,3.8,-,-,-
+125012,sourcing_tripadvisor,sourcing_tripadvisor,Meating,,,Croatia,PUY,Riva 12,44.872398,13.845471,+385 98 182 3607,4,79,,,,Sun - Sat|9:00 AM - 12:00 AM,ChIJ8eTFc-HSfEcRrcAymcsczcI,383,4.4,-,-,-
+125013,sourcing_tripadvisor,sourcing_tripadvisor,Caffe Diana,Cafe,,Croatia,PUY,Forum 4,44.869957,13.842336,+385 98 915 4270,4,28,,,,,ChIJqYpV_x3TfEcRa6dY_Utv6jU,83,4.5,-,-,-
+125014,sourcing_tripadvisor,sourcing_tripadvisor,Skuza,Croatian,,Croatia,PUY,Pjescana Uvala 7/4,44.836704,13.846814,+385 52 397 132,3.5,235,,,,,ChIJW40_tlDTfEcRYd0nIVF_ep0,1002,4.3,-,-,-
+125015,sourcing_tripadvisor,sourcing_tripadvisor,e&Ddayandnightlounge,,,Croatia,PUY,Verudela 22 52100 pula,44.838963,13.833135,+385 52 213 404,3.5,156,,,,,-,-,-,-,-,-
+125016,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Municipio,"Seafood, Mediterranean, European, Croatian, Central European",,Croatia,PUY,Kapitolinski Trg 6,44.870392,13.842178,+385 52 214 027,3.5,184,,,,,ChIJd5xUDuLSfEcR7RwzKXQOi4c,217,3.8,-,-,-
+125017,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria LEMA,"Pizza, Italian",,Croatia,PUY,Ulica Veruda 45,44.854961,13.837761,+385 52 427 428,4,21,,,,,ChIJpcPtRRTTfEcR0_YlzgHyppQ,384,4.4,-,-,-
+125018,sourcing_tripadvisor,sourcing_tripadvisor,Zlatna Vrata,"Italian, Pizza, Mediterranean",,Croatia,PUY,Trg Portarata,44.868118,13.846543,,4,34,,,,,ChIJwcuNwB_TfEcR1qmkkNBf8Nk,194,4.1,-,-,-
+125019,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Torta,,,Croatia,PUY,Riva 1,44.873283,13.84525,+385 52 219 404,4,37,,,,,ChIJiYIxw6nTfEcRY3fPpNNWJsQ,90,3.4,-,-,-
+125020,sourcing_tripadvisor,sourcing_tripadvisor,Pekara Primavera,,,Croatia,PUY,Istarska ul. 28 Near The Arena,44.87175,13.84897,+385 52 213 344,4.5,9,,,,Sun - Sat|6:30 PM - 11:00 PM,ChIJXZuquODSfEcRDx-r0MSTW0w,155,4.6,-,-,-
+125021,sourcing_tripadvisor,sourcing_tripadvisor,Konoba STARI COK,"Croatian, European, Slovenian",,Croatia,PUY,Valtura 70,44.905037,13.957925,+385 52 550 501,4,21,,,,,ChIJm5QgAm8yY0cRK9k9idlgAes,420,4.4,-,-,-
+125022,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Pecenjara Dva Asa,"Pizza, European, Croatian, Italian",,Croatia,PUY,Modrushanov Prilaz 31,44.855061,13.87222,+385 91 602 2321,4.5,11,,,,Sun|12:00 PM - 10:00 PM|Mon|12:00 PM - 11:00 PM|Wed - Sat|12:00 PM - 11:00 PM,ChIJOyC_s44tY0cRWx5l3QQ_Kiw,168,4.7,-,-,-
+125023,sourcing_tripadvisor,sourcing_tripadvisor,Pecenjara Brod,"Croatian, Seafood, Mediterranean, European, Slovenian",,Croatia,PUY,Narodni Trg 9,44.86711500000001,13.848758,,4,16,,,,,ChIJqUb-493TfEcRVmYthPP5A_c,29,4.6,-,-,-
+125024,sourcing_tripadvisor,sourcing_tripadvisor,Baobab,"Bar, Pub",,Croatia,PUY,Tomasinijeva Ulica 34,44.85569,13.83828,+385 95 777 6941,4.5,13,,,,Mon - Thu|10:00 AM - 12:00 AM|Fri - Sat|10:00 AM - 1:00 AM,ChIJ63GgOhTTfEcRjp9TXp67AWk,211,4.6,-,-,-
+125025,sourcing_tripadvisor,sourcing_tripadvisor,Lazy HAUS,"European, Croatian",,Croatia,PUY,Scalierova Ulica 20,44.87192899999999,13.84972,+385 95 791 5127,5,7,,,,,ChIJF-7ohODSfEcRoZHWJd3JwUU,0,0,-,-,-
+125026,sourcing_tripadvisor,sourcing_tripadvisor,PepeNero,"Italian, Pizza, Seafood, Mediterranean, European, Grill, Croatian",,Croatia,PUY,Clerisseauova Ulica 3,44.868256,13.845216,+385 99 199 0678,3.5,109,,,,,ChIJZ_XPSh7TfEcRl56aPyi6y8Q,195,3.7,-,-,-
+125027,sourcing_tripadvisor,sourcing_tripadvisor,Tri ferala,Mediterranean,,Croatia,PUY,Maksimijanova Ul. 19,44.868122,13.843908,+385 91 194 3946,5,5,,,,,ChIJ59KNsOPTfEcR8-HXg6eMZVU,11,5,-,-,-
+125028,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant wings,"Croatian, European",,Croatia,PUY,De Franceschijeva Ulica 23,44.848801,13.85113,,4,19,,,,,-,-,-,-,-,-
+125029,sourcing_tripadvisor,sourcing_tripadvisor,La Playa,"Pizza, Mediterranean",,Croatia,PUY,VIII Ogranak 4,44.837769,13.847476,,3.5,38,,,,,ChIJfWkm7VDTfEcRRyVhG8a1mBQ,58,3.7,-,-,-
+125030,sourcing_tripadvisor,sourcing_tripadvisor,Chill Bar & Food,"Fast Food, European, South American, Central American",,Croatia,PUY,Tomasinijeva Ulica 27,44.85512199999999,13.83836,+385 52 894 4091,4.5,8,,,,,ChIJQTypi1LTfEcROVLRsaYw2yQ,128,4.6,-,-,-
+125031,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Zalogajnica Tanja,Croatian,,Croatia,PUY,Narodni Trg 9,44.866989,13.8491,,3.5,41,,,,,ChIJK8swOiDTfEcRLtEJrhTSiEg,31,3.4,-,-,-
+125032,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Forum,"Seafood, Central European, Mediterranean, European, Croatian",,Croatia,PUY,Forum 8,44.869717,13.8425,+385 98 567 212,3.5,147,,,,Sun|9:00 AM - 11:00 PM|Mon - Sat|9:00 AM - 12:00 AM,ChIJ2Y_hzvnTfEcR1rifPazX10A,2,2.5,-,-,-
+125033,sourcing_tripadvisor,sourcing_tripadvisor,DolceVita,"Seafood, European, Croatian, Mediterranean",,Croatia,PUY,Riva 2,44.871227,13.84187,+385 52 219 229,3.5,49,,,,Sun|10:00 AM - 12:00 AM|Mon - Sat|8:00 AM - 12:00 AM,ChIJDw05QOLSfEcRa6ffOu2GfzI,125,3.8,-,-,-
+125034,sourcing_tripadvisor,sourcing_tripadvisor,Angulos,"Croatian, Pizza, Seafood, Mediterranean, European",,Croatia,PUY,Ulica Hermana Dalmatina 1 / Clerisseauova Ulica,44.86808,13.84538,,3.5,33,,,,,-,-,-,-,-,-
+125035,sourcing_tripadvisor,sourcing_tripadvisor,Ragno D'Oro,"Croatian, Barbecue, European",,Croatia,PUY,Clerissauova,44.868668,13.848,+385 52 350 866,3.5,31,,,,Sun|9:00 AM - 8:00 PM|Mon - Fri|8:00 AM - 9:00 PM|Sat|9:00 AM - 9:00 PM,ChIJZ_XPSh7TfEcRl56aPyi6y8Q,195,3.7,-,-,-
+125036,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Ferrovia,Italian,,Croatia,PUY,Kolodvorska Ulica 5,44.879749,13.84748,+385 98 712 324,4.5,7,,,,,ChIJ7dMQXV3TfEcR-lmvnovtPBQ,240,4.6,-,-,-
+125037,sourcing_tripadvisor,sourcing_tripadvisor,Bar Igra Prirode,"Bar, Pub",,Croatia,PUY,Sijanska suma,44.880592,13.883011,+385 98 915 4270,5,4,,,,,ChIJ4yTe8DQtY0cRF9okfYZ86JI,133,4.8,-,-,-
+125038,sourcing_tripadvisor,sourcing_tripadvisor,Mlinar,"European, Croatian",,Croatia,PUY,Flanatic 6,44.867844,13.848255,+385 91 238 8514,4,9,,,,,ChIJfWED8PPTfEcRwMhUTzG7wxs,18,3.2,-,-,-
+125039,sourcing_tripadvisor,sourcing_tripadvisor,Caffe bar Dvojka,"European, Croatian",,Croatia,PUY,Giardini 3,44.869541,13.84804,+385 98 913 5998,4,6,,,,,ChIJDe-Cop_TfEcR0du1rqrdtUs,145,4.8,-,-,-
+125040,sourcing_tripadvisor,sourcing_tripadvisor,Glam Cafe,Cafe,,Croatia,PUY,Giardini 1,44.869118,13.848058,+385 98 900 4408,3.5,45,,,,,ChIJ4XMBHuDSfEcRlmNN_tF9drE,210,3.6,-,-,-
+125041,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Punkt,"Mediterranean, European, Croatian",,Croatia,PUY,Ulica Marsovog Polja 12 Aldo Drosina Stadium  South side,44.861141,13.851935,+385 52 670 217,5,3,,,,Mon - Fri|8:00 AM - 5:00 PM,ChIJfyoB6yPTfEcRfDt2OKvX508,118,4.8,-,-,-
+125042,sourcing_tripadvisor,sourcing_tripadvisor,Caffe Bar Galerija,"Bar, Cafe, Pub",,Croatia,PUY,Scalierova Ul 26,44.872639,13.85091,+385 99 561 5961,4.5,3,,,,,ChIJSxHHHiPTfEcRT_lXQKSOpIw,32,4.8,-,-,-
+125043,sourcing_tripadvisor,sourcing_tripadvisor,Street Food Factory,,,Croatia,PUY,Street Ivana Matetica Ronjgova 2,44.866562,13.85017,+385 52 495 351,4.5,3,,,,Mon - Fri|9:00 AM - 9:00 PM|Sat|9:00 AM - 2:00 PM,ChIJRZV5bCbTfEcRG0vVrU10pwc,5,5,-,-,-
+125044,sourcing_tripadvisor,sourcing_tripadvisor,Seriously Good Food,"European, Turkish, Croatian",,Croatia,PUY,Tomasinijeva Ulica 34,44.85569,13.83828,+385 52 815 528,4,5,,,,,ChIJQdOgZwnTfEcRXf9ajkFkIjU,101,4.1,-,-,-
+125045,sourcing_tripadvisor,sourcing_tripadvisor,La petite A,"French, European, Contemporary, Croatian",,Croatia,PUY,Zagrebachka Ulica 11,44.868649,13.85037,+385 98 973 9479,4,7,,,,Sun - Sat|6:00 PM - 10:00 PM|Mon - Sat|9:00 AM - 2:00 PM,ChIJCzuDDCDTfEcRKPxJfdNH50I,14,4.9,-,-,-
+125046,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Kod Zvaneta,"European, Croatian",,Croatia,PUY,Valdebechki Put 59,44.852749,13.87574,+385 52 505 840,5,2,,,,,ChIJHX2MGMwsY0cRr2ZZz7cXo58,357,4.1,-,-,-
+125047,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Delfin,Seafood,,Croatia,PUY,Kandlerova Ul. 26,44.871399,13.844258,,3.5,35,,,,,ChIJpTfAi-HSfEcR2iXrtMj7vLE,-,-,-,-,-
+125048,sourcing_tripadvisor,sourcing_tripadvisor,Sydney Bistro-Slasticarn,,,Croatia,PUY,Ulica Bozhe Gumpca 34,44.871685,13.868101,+385 52 545 462,4,8,,,,Mon - Sat|7:00 AM - 10:00 PM,ChIJ78KmUtHSfEcR6V3h-iod_mA,474,4.2,-,-,-
+125049,sourcing_tripadvisor,sourcing_tripadvisor,Vinoteka Integra D&J,Wine Bar,,Croatia,PUY,Maksimijanova Ulica 19,44.86805,13.844,+385 91 794 3946,5,3,,,,,ChIJl02UgQ8sY0cRB-Qg52K0Pps,0,0,-,-,-
+125050,sourcing_tripadvisor,sourcing_tripadvisor,Gardelin,"Mediterranean, Barbecue, European, Croatian, Seafood",,Croatia,PUY,Paduljski Put 2,44.890324,13.845781,+385 98 175 5506,3,125,,,,Sun - Sat|8:00 AM - 11:00 PM,ChIJa6Fxco3SfEcRn1irPPwABYg,290,3.9,-,-,-
+125051,sourcing_tripadvisor,sourcing_tripadvisor,Caffe Bar Scala,"Italian, European",,Croatia,PUY,Ozad Arene 1,44.873791,13.850581,+385 98 898 484,4,4,,,,,ChIJU9PXGbrTfEcRvIsY2hC4fhs,16,4.2,-,-,-
+125052,sourcing_tripadvisor,sourcing_tripadvisor,Pikuleca,"Italian, Fast Food, Mediterranean, European",,Croatia,PUY,Ulica Dubrovachke Bratovshtine 2 Near Amphitheater Arena,44.871208,13.84885,+385 95 890 2849,5,2,,,,,ChIJ6YtQYeDSfEcRvDzkv7duBXY,0,0,-,-,-
+125053,sourcing_tripadvisor,sourcing_tripadvisor,Peking,"Chinese, Asian",,Croatia,PUY,Ulica Monte Paradiso 21,44.848083,13.843736,,3,65,,,,,ChIJ8bqkJkHTfEcR-mxKuuotlu4,-,-,-,-,-
+125054,sourcing_tripadvisor,sourcing_tripadvisor,Caffe Bar Bocconcino,"Bar, European, Spanish, Pub, Healthy, Croatian",,Croatia,PUY,Kranjceviceva 7,,,+385 52 222 938,4.5,2,,,,,-,-,-,-,-,-
+125055,sourcing_tripadvisor,sourcing_tripadvisor,Helicon Vintage bar,"Bar, Cafe, Pub",,Croatia,PUY,Smareglina Ulica 2,44.867031,13.84788,+385 95 764 4663,5,6,,,,Sun|8:00 AM - 10:00 PM|Mon - Sat|7:00 AM - 12:00 AM,ChIJD3F-KiDTfEcRvST-T0g4hvA,43,4.7,-,-,-
+125056,sourcing_tripadvisor,sourcing_tripadvisor,Da Ena Trattoria,"Italian, European, Croatian, Mediterranean, Seafood",,Croatia,PUY,Ulica Porta Stovagnaga 10,44.87072,13.842251,+385 52 000 0000,3,71,,,,,ChIJTVT7HOLSfEcRD612aPn54oQ,71,3.4,-,-,-
+125057,sourcing_tripadvisor,sourcing_tripadvisor,Da Bruno Pizza and Grill Restaurant,,,Croatia,PUY,Ulica Verudella 21,44.835461,13.83473,+385 95 529 0619,4,2,,,,,ChIJ8dGavmDTfEcR2Ac80G-A8QE,353,4.1,-,-,-
+125058,sourcing_tripadvisor,sourcing_tripadvisor,Markat,"European, Croatian",,Croatia,PUY,Narodni Trg 9,44.866989,13.8491,+385 52 223 284,5,1,,,,,ChIJY0TYLyDTfEcREl-pjBu2O7U,160,4.4,-,-,-
+125059,sourcing_tripadvisor,sourcing_tripadvisor,Good Food,"American, Cafe, Fast Food, Barbecue, Grill",,Croatia,PUY,Ulica Stoja 14a Max City,44.86076,13.82395,,5,1,,,,,ChIJQdOgZwnTfEcRXf9ajkFkIjU,101,4.1,-,-,-
+125060,sourcing_tripadvisor,sourcing_tripadvisor,Biberon,Cafe,,Croatia,PUY,Shijanska Cesta 1,44.88385,13.86913,+385 52 638 590,5,1,,,,,ChIJK6yLfMjSfEcRHYseNNhx39s,70,4.2,-,-,-
+125061,sourcing_tripadvisor,sourcing_tripadvisor,Elegance,International,,Croatia,PUY,Kandlerova Ulica 33,44.871689,13.84561,,3.5,9,,,,,ChIJpVbgmOHSfEcRjch4MOCiNnw,-,-,-,-,-
+125062,sourcing_tripadvisor,sourcing_tripadvisor,NOMADS food truck,"Mediterranean, Street Food, European, Croatian",,Croatia,PUY,,44.87323,13.851046,+385 98 163 3352,5,1,,,,,-,-,-,-,-,-
+125063,sourcing_tripadvisor,sourcing_tripadvisor,Blue Shell,"European, Croatian",,Croatia,PUY,Riva 1,44.87315,13.845124,+385 99 409 5298,4,9,,,,Tue - Sun|10:00 AM - 10:00 PM,ChIJA3X2Cu7TfEcRTRdo0yXZksQ,92,4.2,-,-,-
+125064,sourcing_tripadvisor,sourcing_tripadvisor,Spot,"Bar, Pub",,Croatia,PUY,Pjescana Uvala,44.844379,13.85431,,5,1,,,,,-,-,-,-,-,-
+125065,sourcing_tripadvisor,sourcing_tripadvisor,Meggi,,,Croatia,PUY,Valturska cesta,44.87529,13.86077,,4,1,,,,,-,-,-,-,-,-
+125066,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Coloseum,Mediterranean,,Croatia,PUY,Vl. Hanic Gordana,,,+385 52 522 146,3,8,,,,Sun - Sat|8:00 AM - 11:00 PM,-,-,-,-,-,-
+125067,sourcing_tripadvisor,sourcing_tripadvisor,Podroom Caffe Bar,"Grill, Healthy, Fast Food, Street Food",,Croatia,PUY,Budicinova Ulica 16,44.858189,13.83915,+385 98 255 193,5,3,,,,Sun - Sat|7:00 PM - 1:00 AM|Mon - Sat|9:00 AM - 2:00 PM,ChIJvQX5BtrTfEcRNetScZcneu0,21,4.9,-,-,-
+125068,sourcing_tripadvisor,sourcing_tripadvisor,Caffe Bar Nimfej Karolina,"Cafe, Pub",,Croatia,PUY,Ul. Karolina BB,44.872898,13.84852,+385 98 441 025,3,5,,,,,ChIJczwX5uDSfEcRH-rPdo5Tyds,60,3.8,-,-,-
+125069,sourcing_tripadvisor,sourcing_tripadvisor,Yummy Pizza,Pizza,,Croatia,PUY,Krlezina Ulica 39 Veruda,44.855099,13.83754,+385 52 417 417,3,2,,,,Tue - Fri|3:00 PM - 10:00 PM|Sat - Sun|1:00 PM - 10:00 PM,ChIJi1THdRXTfEcRbZ9twxt2mfI,64,4.3,-,-,-
+125070,sourcing_tripadvisor,sourcing_tripadvisor,KebaBoss,Turkish,,Croatia,PUY,Tomasinijeva Ulica 34,44.855698,13.838346,+385 92 370 0282,4.5,3,,,,Sun - Fri|10:00 AM - 11:00 PM|Sat|2:00 PM - 11:00 PM,ChIJdW5xxmbTfEcR_weazfHRGxA,260,4.7,-,-,-
+125071,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Svjetionik,"Italian, European, Croatian",,Croatia,PUY,Verudela,44.84901,13.83904,,3,5,,,,,-,-,-,-,-,-
+125072,sourcing_tripadvisor,sourcing_tripadvisor,Ambrela,"Bar, Croatian, European",,Croatia,PUY,Ulica Verudella 17,44.839146,13.832092,3775026957,3,105,,,,,ChIJTwp3F2fTfEcROKdOUG3p6ZQ,1207,4.4,-,-,-
+125073,sourcing_tripadvisor,sourcing_tripadvisor,Istrijanka,"Italian, Mediterranean, Croatian, Seafood, European",,Croatia,PUY,Ulica Puntizhela 155 Kamp Brioni,44.897968,13.808,+385 98 427 198,3,18,,,,,ChIJy0PNxxbSfEcRPgwNmM9H0r4,200,3.9,-,-,-
+125074,sourcing_tripadvisor,sourcing_tripadvisor,Lito,"Croatian, Italian, Mediterranean, European",,Croatia,PUY,Kandlerova Ulica 28,44.871269,13.84445,,2.5,11,,,,,ChIJQxnahAXTfEcRI47Zgf4Aiss,0,0,-,-,-
+125075,sourcing_tripadvisor,sourcing_tripadvisor,Caffe Bar Baboo,,,Croatia,PUY,Koparska Ulica 2,44.874718,13.854794,+385 95 858 8762,4.5,5,,,,Sun|8:00 AM - 12:00 AM|Mon - Sat|7:00 AM - 12:00 AM,ChIJIV-VS9zSfEcR7wVfU6uFboE,329,4.7,-,-,-
+125076,sourcing_tripadvisor,sourcing_tripadvisor,Pivnica & Pizzeria Bulevar,"Barbecue, Croatian, Bar, Pizza",,Croatia,PUY,Arsenalska Ulica 3,44.866695,13.844722,+385 52 355 055,4.5,101,,,,Mon - Fri|10:00 AM - 11:00 PM|Sat - Sun|12:00 PM - 11:00 PM,ChIJsXjaAh_TfEcRB6Dv6Kyv_-0,863,4.5,-,-,-
+125077,sourcing_tripadvisor,sourcing_tripadvisor,Old Captain,"Seafood, Mediterranean, European",,Croatia,PUY,Maksimijanova Ulica 17,44.868111,13.8441,+385 52 418 814,2.5,22,,,,,ChIJTxeQXufSfEcR2BqNElrprHM,66,4.7,-,-,-
+125078,sourcing_tripadvisor,sourcing_tripadvisor,Barbara,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Kandlerova Ulica 5,44.870884,13.84275,+385 52 213 501,2.5,366,,,,,ChIJMWg8F-LSfEcR3modmu7mZv4,430,3.4,-,-,-
+125079,sourcing_tripadvisor,sourcing_tripadvisor,Q Time Caffe,"Cafe, European, Croatian",,Croatia,PUY,Trg Portarata 6,44.868225,13.847425,+385 52 554 031,2.5,102,,,,,ChIJgdrV7B_TfEcRdEnVsjPIXJc,255,3.4,-,-,-
+125080,sourcing_tripadvisor,sourcing_tripadvisor,Facefood,"American, European",,Croatia,PUY,Kandlerova Ulica 50,44.871666,13.846492,,2.5,69,,,,,ChIJGfuMq-HSfEcRtvlJeu0HP6A,191,3.6,-,-,-
+125081,sourcing_tripadvisor,sourcing_tripadvisor,Aruba Pirates Restaurant,"Grill, Croatian",,Croatia,PUY,Shijanska Cesta 1D,44.88155,13.864765,+385 91 497 6328,3.5,22,,,,Mon - Fri|7:00 AM - 5:00 PM|Sat|9:00 AM - 12:00 PM,ChIJ9eZ6csbSfEcR8B_Y1M2OupM,504,4.1,-,-,-
+125082,sourcing_tripadvisor,sourcing_tripadvisor,Debeli i Mrsavi,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Kandlerova Ulica 24,44.871323,13.843996,+385 52 211 388,2,356,,,,Sun - Sat|9:30 AM - 11:00 PM,ChIJE2k9jOHSfEcRGTL7j3xxJKo,187,2.3,-,-,-
+125083,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Mozaik,"Seafood, Mediterranean, European, Croatian",,Croatia,PUY,Maksimijanova Ulica 6,44.868458,13.844269,+385 95 902 5778,1.5,163,,,,Mon - Sat|8:00 AM - 10:00 PM,ChIJNbiCQB7TfEcRwHwP-G2dON4,111,2.8,-,-,-
+125084,sourcing_tripadvisor,sourcing_tripadvisor,Nonno,"Italian, Croatian, Mediterranean",,Croatia,PUY,Forum 10,44.869843,13.842353,,1,758,,,,,ChIJS2ol-R3TfEcRRUY6shC4qKQ,613,1.3,-,-,-
+125085,sourcing_tripadvisor,sourcing_tripadvisor,Ardor D.o.o.,,,Croatia,PUY,Kapitolinski Trg 9,44.87043,13.84173,+385 98 367 055,,,,,,,ChIJjW-pdOLSfEcRUM5FH1HHW98,1,5,-,-,-
+125086,sourcing_tripadvisor,sourcing_tripadvisor,Valli delicious pancakes bar,Fast Food,,Croatia,PUY,Giardini B.b.,44.868801,13.847895,+385 95 199 5354,,,,,,,ChIJGzhLLvTTfEcRqE2audB6OPA,2,5,-,-,-
+125087,sourcing_tripadvisor,sourcing_tripadvisor,"Restaurant ""Ami""","European, Croatian",,Croatia,PUY,,,,+385 97 636 7358,,,,,,,-,-,-,-,-,-
+125088,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Selvaggio,"European, Croatian",,Croatia,PUY,Narodni Trg 9,44.866989,13.8491,+385 91 936 3106,,,,,,Mon - Sat|7:00 AM - 3:00 PM,-,-,-,-,-,-
+125089,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Selvaggio,"European, Croatian",,Croatia,PUY,,,,,,,,,,,-,-,-,-,-,-
+125090,sourcing_tripadvisor,sourcing_tripadvisor,Old friends club,"Bar, Pub",,Croatia,PUY,Vukovarska Ulica 33,44.869362,13.85681,+385 91 936 0705,,,,,,,ChIJ07i7ydjSfEcR_yaAhrDKSiM,113,4.7,-,-,-
+125091,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Polesana,European,,Croatia,PUY,Modrushanov Prilaz 31,44.855061,13.87222,+385 52 647 961,,,,,,,ChIJm0bzsM0sY0cRPxiF8k2duoA,73,4.5,-,-,-
+125092,sourcing_tripadvisor,sourcing_tripadvisor,Vertigo lounge bar,"European, Croatian",,Croatia,PUY,Ulica Verudella 16,44.83894,13.83333,,,,,,,,-,-,-,-,-,-
+125093,sourcing_tripadvisor,sourcing_tripadvisor,Trznica d.o.o. Pula,"American, Bar, Cafe, Barbecue, Pub, Street Food",,Croatia,PUY,Narodni Trg 9,44.866989,13.8491,,,,,,,,-,-,-,-,-,-
+125094,sourcing_tripadvisor,sourcing_tripadvisor,101% Smartfood,"Italian, Mediterranean, European, Croatian",,Croatia,RJK,"Delta 11 , Rijeka ",45.323807,14.446829,+385 91 326 6065,5,1,,,,,ChIJ7QbPGf2hZEcRgYGlLGrR4l8,18,4.8,-,-,-
+125095,sourcing_tripadvisor,sourcing_tripadvisor,Ai Due Marinai,,,Croatia,RJK,"Verdieva 10 , Rijeka  51000",45.32523,14.4422,+385 51 502 395,3.5,2,,,,"Sun - Sat
+
+10:00 AM - 10:00 PM",-,-,-,-,-,-
+125096,sourcing_tripadvisor,sourcing_tripadvisor,Asia,"Chinese, Asian",,Croatia,RJK,"Zagrebachka 14 , Rijeka  51000",45.32444,14.442549,+385 51 312 888,4,48,,,,"Sun - Sat
+
+11:30 AM - 11:30 PM",ChIJ4bN9NfWhZEcRTilXdcLL3VI,475,4.4,-,-,-
+125097,sourcing_tripadvisor,sourcing_tripadvisor,Baco,"Mediterranean, European, Grill, Croatian",,Croatia,RJK,"Mihanoviceva 35 , Rijeka  51000",45.323761,14.466256,+385 51 216 382,4,8,,,,"Sun
+
+11:00 AM - 7:00 PM
+
+Mon - Fri
+
+9:00 AM - 11:00 PM
+
+Sat
+
+9:30 AM - 11:00 PM",ChIJ3RuuX1OgZEcRsKPdlaW4Skc,371,4.5,-,-,-
+125098,sourcing_tripadvisor,sourcing_tripadvisor,Bar Bar,"Bar, Pub",,Croatia,RJK,"Pod Kashtelom 3 , Rijeka  51000",45.327679,14.44374,+385 97 712 9949,5,5,,,,,ChIJPcmRdeKgZEcRzMQpgWXVQp4,496,4.6,-,-,-
+125099,sourcing_tripadvisor,sourcing_tripadvisor,Batista Bistro & Grill,,,Croatia,RJK,"Ivana Cikovica Belog 40 , Rijeka  51000",45.346889,14.37881,+385 51 638 169,5,1,,,,,ChIJxyiNItOnZEcRpcx_kT0cHGw,109,4.4,-,-,-
+125100,sourcing_tripadvisor,sourcing_tripadvisor,Belgian Beer Cafe Brasserie As,"Bar, Cafe, European, Croatian, Central European, International",,Croatia,RJK,"Adamiceva 26 , Rijeka  51000",45.327,14.440992,+385 51 212 148,4,156,,,,"Sun - Thu
+
+6:00 AM - 1:00 AM
+
+Fri - Sat
+
+6:00 AM - 2:00 AM",ChIJ82MJ8-GgZEcR29sY0hGFxCA,14,4.4,-,-,-
+125101,sourcing_tripadvisor,sourcing_tripadvisor,Bistro 3D,"Italian, Mediterranean, European, Croatian",,Croatia,RJK,"Kumiciceva 20 , Rijeka  51000",45.322235,14.461912,+385 51 217 230,5,4,,,,,ChIJ3xdLTVSgZEcRbUQY71dEEVg,110,4.4,-,-,-
+125102,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Mare,,,Croatia,RJK,"Zagrebachka 12 , Rijeka  51000",45.324261,14.44319,,4,5,,,,"Sun
+
+9:00 AM - 10:00 PM
+
+Mon - Thu
+
+7:00 AM - 12:00 AM
+
+Fri - Sat
+
+7:00 AM - 2:00 AM",-,-,-,-,-,-
+125103,sourcing_tripadvisor,sourcing_tripadvisor,Blato 1902,"Croatian, European",,Croatia,RJK,"Titov Trg 8 c , Rijeka  51000",45.327332,14.448183,+385 51 336 970,4,22,,,,,ChIJmfnSb5KnZEcRRHDXyfdYyoU,0,0,-,-,-
+125104,sourcing_tripadvisor,sourcing_tripadvisor,Bodega,Mexican,,Croatia,RJK,"Ivana Zajca 10 , Rijeka  51000",45.325001,14.444167,00 385 335 759,4,93,,,,,-,-,-,-,-,-
+125105,sourcing_tripadvisor,sourcing_tripadvisor,Book Caffe Dnevni Boravak,"Bar, Pub, Cafe, European",,Croatia,RJK,"Ciottina 12a , Rijeka  51000",45.328579,14.43797,,5,26,,,,"Sun
+
+4:00 AM - 11:59 PM
+
+Mon - Fri
+
+7:00 AM - 11:59 PM
+
+Sat
+
+9:00 AM - 11:59 PM",ChIJFXi_2B-hZEcRxAUVghr2Yus,698,4.8,-,-,-
+125106,sourcing_tripadvisor,sourcing_tripadvisor,Bordel La Grotta,,,Croatia,RJK,"Shime Ljubica 8A , Rijeka  51000",45.327774,14.442411,,5,13,,,,"Mon - Thu
+
+7:00 AM - 12:00 AM
+
+Fri
+
+7:00 AM - 2:00 AM
+
+Sat
+
+8:00 AM - 2:00 AM",ChIJZSzvBuKgZEcRq0mjHRpaa0Q,183,4.7,-,-,-
+125107,sourcing_tripadvisor,sourcing_tripadvisor,Bounty,Fast Food,,Croatia,RJK,"Frana Supila 10 , Rijeka  51000",45.3283,14.44187,+385 91 572 8229,5,1,,,,,ChIJCx2MBh6hZEcRZfS5_gxHGpo,18,4.4,-,-,-
+125108,sourcing_tripadvisor,sourcing_tripadvisor,Bracera,,,Croatia,RJK,"Kruzhna 12a , Rijeka  51000",45.327782,14.440082,+385 51 213 782,3.5,230,,,,,ChIJSYrX3eGgZEcRtWPOv3V_Mww,538,4.4,-,-,-
+125109,sourcing_tripadvisor,sourcing_tripadvisor,Brig,"Barbecue, Croatian, Mediterranean, European, Central European",,Croatia,RJK,"Brig , Rijeka  51000",45.321144,14.500387,+385 51 403 455,4.5,35,,,,,ChIJ9_AmO9OhZEcRG1I68IBhXB8,790,4.6,-,-,-
+125110,sourcing_tripadvisor,sourcing_tripadvisor,Buffet Amel,"European, Croatian",,Croatia,RJK,"Ivana Zorza 39/2 , Rijeka  51000",45.347759,14.42835,+385 51 541 581,4.5,5,,,,,ChIJzUrAuk6hZEcRr7eNDpggJ_E,747,4.3,-,-,-
+125111,sourcing_tripadvisor,sourcing_tripadvisor,Buffet Cocco,"Croatian, Mediterranean, European",,Croatia,RJK,"Uski Prolaz 1 , Rijeka  51000",45.328213,14.438383,+385 51 322 650,4,20,,,,,ChIJ73VKrf2hZEcRCC-aBMLC7Hc,49,4.5,-,-,-
+125112,sourcing_tripadvisor,sourcing_tripadvisor,Cacao Tower,"Cafe, European, Croatian",,Croatia,RJK,"Janka Polica Kamova 81a , Rijeka  51000",45.318081,14.46864,+385 91 202 0630,5,7,,,,"Sun - Sat
+
+8:00 AM - 11:00 PM",ChIJHZ_YuOGgZEcRlG2jKNHZFYE,2276,4.7,-,-,-
+125113,sourcing_tripadvisor,sourcing_tripadvisor,Cafe bar Pjer,Cafe,,Croatia,RJK,"Hahlic 5b , Rijeka  51000",45.342709,14.41562,+385 51 734 236,5,2,,,,"Sun - Sat
+
+7:30 AM - 12:00 AM",ChIJ86R9Ps2mZEcRRV6Kt8v7S7w,161,4.8,-,-,-
+125114,sourcing_tripadvisor,sourcing_tripadvisor,Cafe Dante,"Cafe, Fast Food",,Croatia,RJK,"Ulica Frana Supila , Rijeka  51000",45.328308,14.44187,,4,2,,,,,ChIJf6gR4-KgZEcRWh32QttLVVs,6,4.8,-,-,-
+125115,sourcing_tripadvisor,sourcing_tripadvisor,Caffe Bar Kosi Toranj,Cafe,,Croatia,RJK,"Pul Vele Crikve 1 , Rijeka  51000",45.326691,14.44514,,,,,,,,ChIJlzsYkuKgZEcR13Ishw4CkYg,322,4.2,-,-,-
+125116,sourcing_tripadvisor,sourcing_tripadvisor,Caffe Bar Kvarner,Cafe,,Croatia,RJK,"Ciottina 20a , Rijeka  51000",45.32938,14.43717,,4.5,2,,,,,ChIJ35em7x-hZEcR0kQtd4xuH8c,88,4.1,-,-,-
+125117,sourcing_tripadvisor,sourcing_tripadvisor,Caffe bar Loza,"Italian, Seafood, Mediterranean, European, Deli, Croatian",,Croatia,RJK,"Trg Matka Laginje 2 , Rijeka  51215",45.37262,14.348623,+385 91 971 5666,5,2,,,,,ChIJ-bW2pQ6mZEcR_EUQFW7LH6A,610,4.6,-,-,-
+125118,sourcing_tripadvisor,sourcing_tripadvisor,Caffe bar Striga,"Bar, Cafe, Pub, Wine Bar",,Croatia,RJK,"Titov Trg 14 Kont , Rijeka  51000",45.327282,14.448117,+385 51 372 311,4.5,3,,,,,ChIJBZfFqgKhZEcRnwnkELwfO7M,445,4.4,-,-,-
+125119,sourcing_tripadvisor,sourcing_tripadvisor,Chill Frozen Yogurt,"Cafe, Healthy",,Croatia,RJK,"Korzo 33b , Rijeka  51000",45.327141,14.44083,+385 91 444 3189,4.5,9,,,,,-,-,-,-,-,-
+125120,sourcing_tripadvisor,sourcing_tripadvisor,City Cafe,,,Croatia,RJK,"Pavla Rittera Vitezovica 3b , Rijeka  51000",45.326389,14.44621,+385 51 401 672,4.5,5,,,,,-,-,-,-,-,-
+125121,sourcing_tripadvisor,sourcing_tripadvisor,Corto Maltese Caffe Bar,"Bar, Cafe, Pub",,Croatia,RJK,"Rijechki Lukobran 1 , Rijeka  51000",45.325142,14.44438,,,,,,,,ChIJwW-TTuGgZEcR65XKjtY6tYk,647,4.4,-,-,-
+125122,sourcing_tripadvisor,sourcing_tripadvisor,Discovery Bar,Cafe,,Croatia,RJK,"Dragutina Tadijanovica 4 , Rijeka  51000",45.35274099999999,14.37348,+385 91 538 0259,,,,,,,ChIJszXfufWmZEcR3Mq1MSMbJUI,288,4.8,-,-,-
+125123,sourcing_tripadvisor,sourcing_tripadvisor,Ebba's Cuisine Chocolates And Cakes,"European, Croatian",,Croatia,RJK,"Stara vrata 6 , Rijeka  51000",45.3274,14.44382,+385 97 760 2600,5,9,,,,,ChIJPUz8c-KgZEcRvcKh6KjWaoM,31,4.7,-,-,-
+125124,sourcing_tripadvisor,sourcing_tripadvisor,Fashion Cafe Lobby,European,,Croatia,RJK,"Pavla Rittera Vitezovica 3 , Rijeka  51000",45.326351,14.44615,,5,20,,,,,-,-,-,-,-,-
+125125,sourcing_tripadvisor,sourcing_tripadvisor,Fast Food As,Fast Food,,Croatia,RJK,"Adamiceva 26 , Rijeka  51000",45.327068,14.44074,+385 91 119 3000,5,5,,,,"Mon - Sat
+
+10:00 AM - 12:00 PM",ChIJLyHkCzahZEcR4eFjU5GEfP8,13,4.9,-,-,-
+125126,sourcing_tripadvisor,sourcing_tripadvisor,Fast Food Duli,Fast Food,,Croatia,RJK,"Aleja Slatina bb Moscenicka Draga , Rijeka  51417",45.239471,14.25113,,4.5,17,,,,"Sun - Sat
+
+7:00 AM - 11:00 PM",ChIJfU7gKIhXY0cRFvbwnrWcvpA,48,4.3,-,-,-
+125127,sourcing_tripadvisor,sourcing_tripadvisor,fast food Favst,"American, Fast Food, European, Grill, Street Food, Croatian",,Croatia,RJK,"Erazma Barchica 11 a , Rijeka  51000",45.32703,14.4413,+385 97 676 6641,5,2,,,,"Sun
+
+6:00 PM - 11:00 PM
+
+Mon - Thu
+
+10:00 AM - 10:00 PM
+
+Fri
+
+10:00 AM - 3:00 AM
+
+Sat
+
+3:00 PM - 3:00 AM",ChIJj0vmXPOhZEcR-sTvVfRNFQI,8,5,-,-,-
+125128,sourcing_tripadvisor,sourcing_tripadvisor,Fast Food Goonies,"American, Fast Food, Italian, Mediterranean, European, Croatian",,Croatia,RJK,"Janka Polica Kamova 39 , Rijeka  51000",45.320042,14.46436,+385 98 644 822,5,20,,,,"Mon - Fri
+
+10:00 AM - 10:00 PM
+
+Sat
+
+1:00 PM - 10:00 PM",ChIJTXdDV1GgZEcRbaD_727pujs,202,4.6,-,-,-
+125129,sourcing_tripadvisor,sourcing_tripadvisor,Fast Food Skip,"Pizza, Fast Food",,Croatia,RJK,"Vukovarska bb Izna studenskog doma Ivan Goran Kovacic , Rijeka  51000",45.340366,14.417494,+385 51 674 685,3,1,,,,,ChIJBZ5inhehZEcRT8tT3TCQDIM,69,4,-,-,-
+125130,sourcing_tripadvisor,sourcing_tripadvisor,Fastfood Zabica,"Pizza, Fast Food",,Croatia,RJK,"Zhabica 2 , Rijeka  51000",45.327892,14.437148,+385 51 330 588,3,5,,,,,ChIJ68g-xAKhZEcRFddcc5ymm90,1,4,-,-,-
+125131,sourcing_tripadvisor,sourcing_tripadvisor,Feral,"Seafood, Mediterranean, Croatian, European",,Croatia,RJK,"Matije Gupca 5 , Rijeka  51000",45.325069,14.445,+385 51 212 274,4,61,,,,,ChIJbdBsY3IVY0cRLlTusXWSuPA,1,1,-,-,-
+125132,sourcing_tripadvisor,sourcing_tripadvisor,Fine Fast Food Kuzina,"European, Croatian",,Croatia,RJK,"Ciottina 7 , Rijeka  51000",45.328335,14.437917,+385 51 603 603,4,6,,,,"Mon - Fri
+
+9:00 AM - 11:00 PM
+
+Sat
+
+3:00 PM - 11:00 PM",ChIJW_pnJ-CgZEcR5nb5zrIr7dM,83,4.7,-,-,-
+125133,sourcing_tripadvisor,sourcing_tripadvisor,Fiorello,Pub,,Croatia,RJK,"Korzo 2d , Rijeka  51000",45.326,14.44388,+385 91 507 8594,,,,,,,ChIJxWg1hByhZEcRVZtuVkj2HlI,361,4.6,-,-,-
+125134,sourcing_tripadvisor,sourcing_tripadvisor,Food & Bar Loki,"Steakhouse, Cafe, European, Pub, Gastropub, Croatian",,Croatia,RJK,"Boze Starca Juriceva 2 , Rijeka  51000",45.348778,14.386377,+385 91 947 5596,,,,,,,ChIJ2-5KdE-nZEcRKg1XggYZl8o,12,4.4,-,-,-
+125135,sourcing_tripadvisor,sourcing_tripadvisor,Foodbar Cantina,"Steakhouse, Seafood, Mediterranean, European, Central European",,Croatia,RJK,"Verdieva 10 , Rijeka  51000",45.32523,14.4422,+385 95 388 3582,5,8,,,,"Mon - Thu
+
+11:00 AM - 10:00 PM
+
+Fri - Sat
+
+11:00 AM - 12:00 PM",ChIJ22PFm-6mZEcRoORmLVRn7JQ,115,4.7,-,-,-
+125136,sourcing_tripadvisor,sourcing_tripadvisor,Galileo,,,Croatia,RJK,"Slavka Cindrica Bb , Rijeka  51000",45.325169,14.44978,+385 51 331 300,5,4,,,,"Mon - Sat
+
+8:00 AM - 11:00 PM",ChIJGxNs9-KgZEcRsGmm9_MRVQ0,0,0,-,-,-
+125137,sourcing_tripadvisor,sourcing_tripadvisor,Gardens Restaurant,"Seafood, Mediterranean, Barbecue, European, Soups, Croatian, Central European",,Croatia,RJK,"Riva 6 , Rijeka  51000",45.325848,14.441583,+385 51 311 026,3.5,281,,,,,ChIJZ-SQLuKgZEcRtuX2B6lMKT0,1154,4.2,-,-,-
+125138,sourcing_tripadvisor,sourcing_tripadvisor,Harats Pub Rijeka,"European, Irish, Mediterranean, Croatian",,Croatia,RJK,"Ul. Pod Kastelom 9 , Rijeka  51000",45.327751,14.443347,+385 51 621 434,4.5,22,,,,"Sun - Sat
+
+12:00 AM - 11:59 PM",ChIJ76M49R2hZEcRzk9zcCELra8,502,4.6,-,-,-
+125139,sourcing_tripadvisor,sourcing_tripadvisor,Jist,"Steakhouse, Mediterranean, Barbecue, European, Croatian",,Croatia,RJK,"Siroli 27 , Rijeka  51216",45.381729,14.379826,+385 51 374 597,4.5,103,,,,"Tue - Sun
+
+1:00 PM - 11:00 PM",ChIJ4ylZKdKlZEcR2PriADqNhTM,1,5,-,-,-
+125140,sourcing_tripadvisor,sourcing_tripadvisor,Kamov Fine Dining Restaurant,"Seafood, Mediterranean, European, Croatian",,Croatia,RJK,"Dolac 8 b , Rijeka  51000",45.328308,14.44048,+385 51 357 100,3,7,,,,,-,-,-,-,-,-
+125141,sourcing_tripadvisor,sourcing_tripadvisor,KANCELARIJA BAR,"European, Croatian",,Croatia,RJK,"Dure Sporera 2 A , Rijeka  51000",45.327095,14.44568,+385 91 331 0000,,,,,,"Mon - Fri
+
+7:00 AM - 10:00 PM
+
+Sat
+
+7:00 AM - 3:00 PM",ChIJMXhUvXahZEcRK1mtYy8ipZI,167,4.8,-,-,-
+125142,sourcing_tripadvisor,sourcing_tripadvisor,Kebab House Asterix,Turkish,,Croatia,RJK,"Ciottina 16b , Rijeka  51000",45.328999,14.437424,+385 51 440 729,4,6,,,,"Mon - Fri
+
+10:00 AM - 10:00 PM
+
+Sat
+
+6:00 PM - 11:00 PM",ChIJ1Xls5h-hZEcRHBSQv236W0M,178,4.4,-,-,-
+125143,sourcing_tripadvisor,sourcing_tripadvisor,Kokolo,"Pizza, European, Croatian",,Croatia,RJK,"Zametska 58 , Rijeka  51000",45.34166,14.395948,+385 51 263 394,3.5,68,,,,,ChIJU-Vo7dymZEcRyd3P3fjPtLU,1276,4.4,-,-,-
+125144,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Belveder,"European, Croatian, Steakhouse, Portuguese",,Croatia,RJK,"Laginjina 42 , Rijeka  51000",45.332851,14.438777,+385 51 227 103,4.5,7,,,,"Mon - Sat
+
+9:00 AM - 11:00 PM",ChIJ4Qu8VB-hZEcRsUm1PDMkZE0,18,4.3,-,-,-
+125145,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Cakula Rijeka,"Barbecue, European, Street Food, Croatian",,Croatia,RJK,"Pod Voltun 15 , Rijeka  51000",45.327648,14.44341,+385 91 595 8771,5,3,,,,"Mon - Thu
+
+8:00 AM - 11:00 PM
+
+Fri - Sat
+
+8:00 AM - 12:00 PM",ChIJrV4jYl-hZEcRA56vFHuW3vQ,75,4.9,-,-,-
+125146,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Matilda,"European, Croatian",,Croatia,RJK,"Petra Kobeka 7A , Rijeka  51000",45.333481,14.4414,+385 51 215 186,4.5,12,,,,"Mon - Sat
+
+9:00 AM - 10:00 PM",ChIJU36G1xihZEcR_4xjRzkTxZA,114,4.3,-,-,-
+125147,sourcing_tripadvisor,sourcing_tripadvisor,Kooglana Food & Bar - Bowling Rijeka Tower,"Grill, Italian, Pizza, Fast Food, European, Croatian",,Croatia,RJK,"Janka Polica Kamova 81A Entry from main street at the end of the building , Rijeka  51000",45.318954,14.466974,+385 99 208 8830,4,6,,,,"Sun - Sat
+
+8:00 AM - 12:00 AM",ChIJB8ppLk6gZEcRipihiD5wq64,927,4.5,-,-,-
+125148,sourcing_tripadvisor,sourcing_tripadvisor,Krug,Pizza,,Croatia,RJK,"Mate Lovraka 26 , Rijeka  51000",45.35564,14.37325,+385 99 354 1848,5,1,,,,,ChIJ3T4oCPenZEcRk5sqtW-wYCs,103,4.7,-,-,-
+125149,sourcing_tripadvisor,sourcing_tripadvisor,Lucky Food,,,Croatia,RJK,"Slavishe Vajnera Chiche 9 , Rijeka  51000",45.33057,14.43714,+385 51 345 244,4.5,2,,,,"Sun
+
+3:00 PM - 10:00 PM
+
+Mon - Fri
+
+9:00 AM - 10:00 PM
+
+Sat
+
+12:00 PM - 10:00 PM",ChIJYYzrhh-hZEcRyerR4gGKRHs,1,5,-,-,-
+125150,sourcing_tripadvisor,sourcing_tripadvisor,Mamma Mia Fine Food,"Mexican, American, Mediterranean",,Croatia,RJK,"Ivana Filipovica 1B , Rijeka  51000",45.332321,14.4343,+385 98 972 3677,,,,,,,ChIJx3VeI9ehZEcRUCDqgU-u2PQ,15,4.4,-,-,-
+125151,sourcing_tripadvisor,sourcing_tripadvisor,Marun,"Barbecue, Croatian, Steakhouse, European",,Croatia,RJK,"Vukovarska 110 , Rijeka  51000",45.34129,14.41594,+385 51 673 561,4,15,,,,,ChIJd4sOWs2mZEcRnKD0ckLwJZM,497,4.4,-,-,-
+125152,sourcing_tripadvisor,sourcing_tripadvisor,Milman Caffe Shop Brajda,Cafe,,Croatia,RJK,"Brajda 2b , Rijeka  51000",45.330318,14.43348,+385 51 335 396,4,3,,,,,ChIJMeCbr-OgZEcRv2cFUfL9pNw,13,4.9,-,-,-
+125153,sourcing_tripadvisor,sourcing_tripadvisor,Molo longo,"Seafood, Mediterranean, European, Croatian",,Croatia,RJK,"Rijecki Lukobran Bb , Rijeka  51000",45.323612,14.438889,+385 51 301 917,4,59,,,,,ChIJpcmGMeGgZEcRMVQWEDRYZQo,656,4.5,-,-,-
+125154,sourcing_tripadvisor,sourcing_tripadvisor,Muciceva Ravan,"Italian, Seafood, Mediterranean, Croatian, European, Slovenian",,Croatia,RJK,"Mucici 11, 51213 Jurdani , Rijeka ",45.382938,14.31243,+385 51 279 674,4.5,37,,,,,ChIJj_hh_zyvZEcRrT-5ZdseY6k,274,4.4,-,-,-
+125155,sourcing_tripadvisor,sourcing_tripadvisor,Municipium,"Seafood, Mediterranean, European, Croatian",,Croatia,RJK,"Trg Rijechke Rezolucije 5 , Rijeka  51000",45.327423,14.441477,+385 51 213 000,4,59,,,,,ChIJea3a0j6hZEcRwTp9avynjZA,39,4.3,-,-,-
+125156,sourcing_tripadvisor,sourcing_tripadvisor,Nad Urom Caffe Bar,Cafe,,Croatia,RJK,"Trg Ivana Koblera 1 , Rijeka  51000",45.32666,14.44305,+385 51 333 338,4,17,,,,"Sun
+
+8:00 AM - 2:00 PM
+
+Mon
+
+7:00 AM - 11:00 AM
+
+Thu
+
+7:00 AM - 11:00 AM
+
+Fri - Sat
+
+7:00 AM - 11:30 PM",ChIJOQBxPwehZEcRryL6F4BmMIE,15,4.6,-,-,-
+125157,sourcing_tripadvisor,sourcing_tripadvisor,Nostalgija,"European, Croatian",,Croatia,RJK,"Ciottina Ulica 10B , Rijeka  51000",45.32856,14.43807,+385 51 241 100,,,,,,,ChIJwc3y2B-hZEcRq5lsbgjdNm8,153,4.6,-,-,-
+125158,sourcing_tripadvisor,sourcing_tripadvisor,O'Hara Rijeka,"Pizza, Barbecue, Italian, Neapolitan, Campania, Southern-Italian, European",,Croatia,RJK,"Riva 12a , Rijeka  51000",45.326756,14.439469,+385 51 568 888,3.5,49,,,,,ChIJN_DpvuGgZEcRp0_GVJMkO20,961,4.3,-,-,-
+125159,sourcing_tripadvisor,sourcing_tripadvisor,Orijentovo Ognjisce,"Pizza, Mediterranean, Barbecue, European, Grill, Croatian",,Croatia,RJK,"Kumiciceva ul. 66 Stadion Krimeja , Rijeka  51000",45.323574,14.467537,+385 51 400 214,4.5,18,,,,"Sun - Sat
+
+9:00 AM - 11:00 PM",ChIJUZbDPVOgZEcRy5Dbm02VzzM,503,4.5,-,-,-
+125160,sourcing_tripadvisor,sourcing_tripadvisor,Pecenjarnica Park,"European, Croatian",,Croatia,RJK,"Boze Vidasa BB Zamet , Rijeka  51000",45.344109,14.38434,+385 91 538 7416,4.5,9,,,,,ChIJDabsi3GnZEcRp8Bp2plZM10,1,5,-,-,-
+125161,sourcing_tripadvisor,sourcing_tripadvisor,Peking,"Chinese, Asian",,Croatia,RJK,"Bozhe Milanovica 18 Kozala , Rijeka  51000",45.334156,14.439863,+385 51 513 034,4,56,,,,,ChIJ1yTvlxihZEcRnDL4kjm-X2s,666,4.6,-,-,-
+125162,sourcing_tripadvisor,sourcing_tripadvisor,Peking Wok,"Chinese, Asian",,Croatia,RJK,"Jadranski Trg 4/C , Rijeka  51000",45.327789,14.439125,+385 51 410 888,3,36,,,,"Sun - Sat
+
+9:00 AM - 12:00 AM",ChIJ1yTvlxihZEcRnDL4kjm-X2s,666,4.6,-,-,-
+125163,sourcing_tripadvisor,sourcing_tripadvisor,Pepi Pizza & Spaghetti,"Italian, Pizza, Mediterranean, European, Croatian",,Croatia,RJK,"Vladivoja I Milivoja Lenca 81 , Rijeka  51000",45.351917,14.392188,+385 51 648 332,4,5,,,,,ChIJtV3iDeumZEcRD6qdzBXeh9Q,139,4.4,-,-,-
+125164,sourcing_tripadvisor,sourcing_tripadvisor,Pirunada,"European, Croatian",,Croatia,RJK,"Pod Kashtelom 6 , Rijeka  51000",45.3279,14.4438,+385 51 563 600,4,9,,,,"Mon - Fri
+
+10:00 AM - 6:00 PM",-,-,-,-,-,-
+125165,sourcing_tripadvisor,sourcing_tripadvisor,Pizza Place DESTINO,"Pizza, Italian, European",,Croatia,RJK,"Martina Kontusha 47 , Rijeka  51000",45.321445,14.474524,+385 95 835 6422,4.5,37,,,,"Sun - Sat
+
+7:00 AM - 12:00 AM",ChIJQ6xkVkygZEcRwrhgvxiRZoM,848,4.7,-,-,-
+125166,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria & Grill Pun Pjat,"Pizza, Grill",,Croatia,RJK,"Cvjetna 11 , Rijeka  51000",45.354599,14.42829,+385 51 543 777,3.5,6,,,,,ChIJUZDtE0yhZEcRj16NacVsN8o,4,4.8,-,-,-
+125167,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Antonio,Pizza,,Croatia,RJK,"Dr. Zdravka Kucica 1 , Rijeka  51000",45.325619,14.476411,+385 51 411 521,5,6,,,,"Sun
+
+9:00 AM - 1:00 PM
+
+Mon - Sat
+
+7:00 AM - 11:00 PM",ChIJ1cbKA7OhZEcR3YdRmCeZun0,462,4.5,-,-,-
+125168,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Carraca Pub,"Pizza, Barbecue, Pub, Croatian, European",,Croatia,RJK,"Vrlije 8 , Rijeka  51000",45.331284,14.458629,+385 51 336 736,4,91,,,,"Sun - Sat
+
+11:30 AM - 11:30 PM",ChIJM26yxgahZEcRWGx46JYNXWM,1056,4.2,-,-,-
+125169,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria EX,"Croatian, Italian, Pizza, Seafood, Barbecue, European, Grill",,Croatia,RJK,"Miroslava Krleze 11 , Rijeka  51000",45.355,14.36916,+385 51 624 471,4.5,16,,,,"Sun - Sat
+
+7:00 AM - 12:00 AM",ChIJvwBks1-mZEcRWmc5GUbydh0,2459,4.5,-,-,-
+125170,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Feniks,"Neapolitan, Campania, Southern-Italian",,Croatia,RJK,"Tizianova 18 , Rijeka  51000",45.334351,14.43645,9777581959,,,,,,,-,-,-,-,-,-
+125171,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Kastel,,,Croatia,RJK,"Slavka Krautzeka 49 , Rijeka  51000",45.328941,14.46164,+385 92 192 1969,5,2,,,,,-,-,-,-,-,-
+125172,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Maslina,"Italian, Pizza, Mediterranean, European",,Croatia,RJK,"Osjechka 39 , Rijeka  51000",45.326843,14.443519,+385 51 513 513,4,75,,,,,ChIJz5hLuzGhZEcRa2VDFteeYzs,1405,4.3,-,-,-
+125173,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Pampas,"Croatian, Italian",,Croatia,RJK,"Slavka Krautzeka 49 51000 , Rijeka  51000",45.32872,14.461806,+385 51 219 058,4,77,,,,,ChIJje2ldaqhZEcRsfAqT1H19i0,1579,4.5,-,-,-
+125174,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Van Gogh,Pizza,,Croatia,RJK,"Antuna Barca 7 , Rijeka  51000",45.341808,14.41388,,3,6,,,,,ChIJsXi-d82mZEcRidyb2UmNTHI,104,3,-,-,-
+125175,sourcing_tripadvisor,sourcing_tripadvisor,Porto Grillo Restaurant,"Croatian, Barbecue, European",,Croatia,RJK,"Riva 12a , Rijeka  51000",45.32645,14.439368,+385 51 568 888,3.5,56,,,,,ChIJT-1fueGgZEcRclMYEpJ0SrE,162,3.9,-,-,-
+125176,sourcing_tripadvisor,sourcing_tripadvisor,Primorska Konoba,"Croatian, Seafood, Mediterranean, European",,Croatia,RJK,"Krojachka 1 , Rijeka  51000",45.327496,14.442995,+385 95 671 6717,3.5,16,,,,,ChIJj9MLGUWhZEcRopt5JdXn1F4,273,4.3,-,-,-
+125177,sourcing_tripadvisor,sourcing_tripadvisor,Prostorija,"Cafe, Wine Bar",,Croatia,RJK,"Uzharska 17a Trg imi , Rijeka  51000",45.326561,14.443808,+385 95 513 5774,4.5,11,,,,,ChIJ63CSpMqhZEcRtbVxCMkq-wY,10,4,-,-,-
+125178,sourcing_tripadvisor,sourcing_tripadvisor,Quattro Cucine,Italian,,Croatia,RJK,"Tizianova 18 Groundfloor , Rijeka  51000",45.334351,14.43645,+385 99 379 7950,,,,,,,ChIJqUGxMCKhZEcRSw-OpjSzQfk,34,4.2,-,-,-
+125179,sourcing_tripadvisor,sourcing_tripadvisor,"Restaurant Nur, Islamski Centar Rijeka",Eastern European,,Croatia,RJK,"Ante Mandica 50 , Rijeka  51000",45.34539,14.39662,+385 99 838 7239,4.5,4,,,,,ChIJszSU_sKmZEcRx1FJ-WEmPRk,9,4.7,-,-,-
+125180,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Opera,"Mediterranean, Barbecue, Grill, Healthy",,Croatia,RJK,"Ribarska 5 , Rijeka  51000",45.324516,14.445499,+385 51 606 839,4.5,23,,,,"Mon - Sat
+
+12:00 PM - 11:00 PM",ChIJL8wtGMqhZEcREsQCqa3l6-s,152,4.4,-,-,-
+125181,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Mladenka,"European, Croatian",,Croatia,RJK,"Vozisce 28 , Rijeka  51216",45.382275,14.384197,+385 51 256 461,4.5,4,,,,,ChIJ4QwcWCukZEcRF3TXOp6Nbcw,348,4.5,-,-,-
+125182,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Morcic,"Croatian, Seafood, Mediterranean, European, Central European",,Croatia,RJK,"Milice Jadranic 2 , Rijeka  51000",45.353058,14.390988,+385 91 898 0191,4.5,32,,,,"Sun - Sat
+
+8:00 AM - 11:00 PM",ChIJ814PV-umZEcRJfOWwQjOvxc,682,4.4,-,-,-
+125183,sourcing_tripadvisor,sourcing_tripadvisor,Ri,,,Croatia,RJK,"Riva 6 , Rijeka  51000",45.32627100000001,14.44172,,4,5,,,,"Sun
+
+1:00 PM - 10:00 PM
+
+Mon - Sat
+
+8:00 AM - 10:00 PM",-,-,-,-,-,-
+125184,sourcing_tripadvisor,sourcing_tripadvisor,Rio Kebab,"Fast Food, Turkish, Grill",,Croatia,RJK,"Fiumara 17 , Rijeka  51000",45.327019,14.44718,+385 95 500 6430,5,2,,,,,ChIJ4VjksXehZEcRfkd5EyKeRc4,145,4.6,-,-,-
+125185,sourcing_tripadvisor,sourcing_tripadvisor,Roma,Pizza,,Croatia,RJK,"Krnjevo 10a , Rijeka  51000",45.339378,14.4045,+385 51 410 410,5,1,,,,,ChIJw2eey9KmZEcRMMNiy3-5ehc,122,4.3,-,-,-
+125186,sourcing_tripadvisor,sourcing_tripadvisor,Slatko by Piko,,,Croatia,RJK,"Korzo 33b , Rijeka  51000",45.327141,14.44083,+385 51 585 544,4.5,7,,,,,-,-,-,-,-,-
+125187,sourcing_tripadvisor,sourcing_tripadvisor,Sorriso,"Seafood, Croatian, Mediterranean, European",,Croatia,RJK,"Podkoludricu 2 , Rijeka  51000",45.340649,14.37215,+385 51 632 822,2.5,47,,,,,ChIJqab0Z9atfEcRgZwUXp3i0mI,1,5,-,-,-
+125188,sourcing_tripadvisor,sourcing_tripadvisor,Sprinter Caffe,,,Croatia,RJK,"Riva 6 , Rijeka  51000",45.32627100000001,14.44172,+385 51 322 522,4.5,3,,,,"Sun - Sat
+
+6:00 AM - 12:00 AM",ChIJv3sJL-KgZEcRJg7rt9u7fKk,142,4.4,-,-,-
+125189,sourcing_tripadvisor,sourcing_tripadvisor,StoRiJa,"Italian, Mediterranean, European, Healthy, Croatian, Hungarian",,Croatia,RJK,"Riva 6 Prizemlje robne kuce Ri , Rijeka  51000",45.326813,14.44227,+385 51 670 473,4.5,8,,,,,ChIJdZhFzS2hZEcR0sBwnmJsN7c,36,4.4,-,-,-
+125190,sourcing_tripadvisor,sourcing_tripadvisor,Street Food,,,Croatia,RJK,"Zdravka Kuchica 7A On main road, has parking directly in front , Rijeka  51000",45.32357,14.47598,+385 51 215 660,3.5,4,,,,"Sun - Sat
+
+11:00 AM - 11:00 PM",ChIJ0-dILbOhZEcRDhmHVF6Yukg,586,4.6,-,-,-
+125191,sourcing_tripadvisor,sourcing_tripadvisor,TAIYO Sushi Restaurant,"Japanese, Sushi, Asian",,Croatia,RJK,"Verdijeva Ulica 19A , Rijeka  51000",45.325012,14.442468,+385 51 550 406,4.5,25,,,,"Sun
+
+12:00 PM - 11:00 PM
+
+Mon - Thu
+
+11:30 AM - 11:30 PM
+
+Fri
+
+11:30 AM - 12:00 AM
+
+Sat
+
+12:00 PM - 12:00 AM",ChIJ15Sg4LWhZEcRfm-mzQMsHdI,653,4.8,-,-,-
+125192,sourcing_tripadvisor,sourcing_tripadvisor,The Boulevard,"Bar, Pub",,Croatia,RJK,"Bulevar Oslobodjenja 35 , Rijeka  51000",45.326523,14.453334,+385 91 453 8130,5,4,,,,,ChIJ1aPR9_2gZEcR1k2c0Xlr1Ys,143,4.4,-,-,-
+125193,sourcing_tripadvisor,sourcing_tripadvisor,Trattoria Granaio,,,Croatia,RJK,"Pod Kashtelom 9 , Rijeka  51000",45.327839,14.44347,,5,1,,,,"Mon - Sat
+
+10:00 AM - 11:00 PM",-,-,-,-,-,-
+125194,sourcing_tripadvisor,sourcing_tripadvisor,Tresorin Sushi & Oyster Bar,,,Croatia,RJK,"Pul Vele Crikve 1 , Rijeka  51000",45.326691,14.44514,,5,2,,,,"Mon - Sat
+
+7:00 AM - 12:00 AM",ChIJ3wsNqPahZEcRsQFRbelOlZs,66,4.4,-,-,-
+125195,sourcing_tripadvisor,sourcing_tripadvisor,Trsatika,,,Croatia,RJK,"Shetalishte Joakima Rakovca 33 , Rijeka  51000",45.331108,14.456078,+385 51 452 716,3.5,104,,,,,ChIJfeImGK-hZEcRliUgWrDFK-o,0,0,-,-,-
+125196,sourcing_tripadvisor,sourcing_tripadvisor,Veseljak,"Pizza, Seafood, Mediterranean, Barbecue, Croatian, European",,Croatia,RJK,"Krnjevo 12A , Rijeka  51000",45.339413,14.404763,+385 51 641 622,4,30,,,,"Sun
+
+12:00 PM - 12:00 AM
+
+Mon - Sat
+
+9:00 AM - 12:00 AM",ChIJRTDr7dCmZEcRvfFX-8F2glw,439,4.3,-,-,-
+125197,sourcing_tripadvisor,sourcing_tripadvisor,Villa Plasa,"Croatian, Mediterranean, European",,Croatia,RJK,"Zaluki, 51213 Jurdani, Croatia , Rijeka  51213",45.38623,14.31414,+385 51 279 664,4,16,,,,,ChIJMQNZ1-euZEcR57EAoF4gov0,248,4.7,-,-,-
+125198,sourcing_tripadvisor,sourcing_tripadvisor,Vintage Bar,"Bar, Pub",,Croatia,RJK,"Petra Zrinskog Bb Trsatska Gradina , Rijeka  51000",45.332417,14.455403,,3.5,22,,,,,ChIJrUagQAShZEcRAEYRbJa-kTg,211,4.4,-,-,-
+125199,sourcing_tripadvisor,sourcing_tripadvisor,Volta,International,,Croatia,RJK,"Pod Voltun 15 , Rijeka  51000",45.327686,14.443261,+385 51 564 297,5,32,,,,"Tue - Sat
+
+1:00 PM - 11:00 PM",-,-,-,-,-,-
+125200,sourcing_tripadvisor,sourcing_tripadvisor,Weiyue,"Chinese, Asian",,Croatia,RJK,"Zagrebachka 14 , Rijeka  51000",45.32452,14.44251,+385 51 312 888,5,30,,,,"Mon - Thu
+
+10:30 AM - 11:00 PM
+
+Fri - Sun
+
+11:00 AM - 11:30 PM",ChIJ4bN9NfWhZEcRTilXdcLL3VI,475,4.4,-,-,-
+125201,sourcing_tripadvisor,sourcing_tripadvisor,"Wine & Coffee Bar ""Kod Zajca""",Bar,,Croatia,RJK,"Verdieva 7a , Rijeka  51000",45.324131,14.44417,+385 51 313 110,3.5,13,,,,,ChIJ9Zh0E-OgZEcRGG1igda3N_4,118,4.7,-,-,-
+125202,sourcing_tripadvisor,sourcing_tripadvisor,Wok'abilly,"Asian, Fast Food",,Croatia,RJK,"Adamiceva 24a , Rijeka  51000",45.326698,14.44151,+385 51 324 626,4,16,,,,"Mon - Sat
+
+10:00 AM - 11:00 PM",ChIJF72fIOKgZEcRSs6PJCxCPQ4,223,4.2,-,-,-
+125203,sourcing_tripadvisor,sourcing_tripadvisor,Zlatna Skoljka,"Mediterranean, Croatian, Seafood, European",,Croatia,RJK,"Kruzhna 12 , Rijeka  51000",45.32770900000001,14.44016,+385 51 213 782,3.5,54,,,,,ChIJH_gK3eGgZEcR7BtrGu7Afbs,901,4.4,-,-,-
+125204,sourcing_tripadvisor,sourcing_tripadvisor,Zona,"Barbecue, Croatian, European, Grill, Eastern European",,Croatia,RJK,"Pulska 3 , Rijeka  51000",45.337326,14.387556,+385 51 684 766,4,62,,,,"Sun - Sat
+
+9:00 AM - 11:00 PM",ChIJB4p3geCmZEcR1QAr3k-_vgQ,985,4.3,-,-,-
+125205,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Zdenac,"European, Croatian, Italian, Pizza, Mediterranean, Grill",,Croatia,SLB,Ulica Dr. Mile Budaka 1a,45.165535,18.005196,+385 98 265 724,5,14,,,,Sun - Sat|10:00 AM - 10:00 PM,ChIJN1Zcmg-6XUcRgiWPlnB_JeQ,224,4.4,-,-,-
+125206,sourcing_tripadvisor,sourcing_tripadvisor,Podroom Grill,,,Croatia,SLB,Trg >ivana Brlic Mazhuranic< 15 Korzo,45.154133,18.011965,+385 35 445 045,4.5,53,,,,,ChIJUwEeU_-5XUcRO4WupxCcZ0g,319,4.6,-,-,-
+125207,sourcing_tripadvisor,sourcing_tripadvisor,Uno pizzeria,"Pizza, Croatian, European",,Croatia,SLB,Nikole Zrinskog Ulica 7,45.156651,18.01606,+385 99 271 7494,4.5,102,,,,Sun|10:00 AM - 12:00 AM|Mon - Thu|8:00 AM - 12:00 AM|Fri - Sat|8:00 AM - 1:00 AM,ChIJk0ke_xu6XUcRrmRyTPF_gQc,1360,4.5,-,-,-
+125208,sourcing_tripadvisor,sourcing_tripadvisor,Pivska Soba,"Bar, Pizza, Pub, Croatian, European, Eastern European",,Croatia,SLB,Ulica Ante Starchevica 17,45.15361,18.01392,,4,42,,,,,ChIJpeulcf-5XUcRrQwOLMK8gV0,3,4.7,-,-,-
+125209,sourcing_tripadvisor,sourcing_tripadvisor,Krcma Eden,"Pizza, Croatian, Seafood, Mediterranean, Barbecue, European",,Croatia,SLB,"Josip Juraj Strossmayer"" 1""",45.1535,18.021379,+385 35 440 406,4.5,20,,,,Sun - Thu|9:00 AM - 11:00 PM|Fri|9:00 AM - 12:00 PM|Sat|9:00 AM - 12:00 AM,ChIJv_SZo5S5XUcRDS_O7th9VNU,418,4.4,-,-,-
+125210,sourcing_tripadvisor,sourcing_tripadvisor,Kuca dida Tunje,"European, Croatian",,Croatia,SLB,35213 Oprisavci,,,+385 35 221 963,5,9,,,,,-,-,-,-,-,-
+125211,sourcing_tripadvisor,sourcing_tripadvisor,Ratatoille,"Pizza, Fast Food, Barbecue, Fusion, Croatian",,Croatia,SLB,Ulica Ante Starchevica 20,45.153332,18.014099,+385 91 365 4444,5,6,,,,Mon - Thu|10:00 AM - 10:00 PM|Fri|12:00 AM - 1:00 AM|10:00 AM - 3:00 AM|Sat|12:00 PM - 12:00 AM,ChIJrfjkwIS5XUcREweJ_JPmvlg,17,4.8,-,-,-
+125212,sourcing_tripadvisor,sourcing_tripadvisor,King's World of kebap,"Fast Food, Turkish",,Croatia,SLB,Ulica Dr. Andrije Shtampara 46,45.15667,18.024481,+385 35 441 244,4.5,10,,,,,ChIJJ_JazquwXUcRt0X8IjdokBY,614,4.3,-,-,-
+125213,sourcing_tripadvisor,sourcing_tripadvisor,Pipa Bar,"European, Croatian",,Croatia,SLB,Ulica Petra Kreshimira IV 12,45.15527,18.01333,,5,4,,,,Mon - Thu|8:00 AM - 11:00 PM|Fri|8:00 AM - 12:00 AM|Sat|10:00 AM - 12:00 AM,ChIJu1cvNZy7XUcR_nZZWweSq7g,86,4.9,-,-,-
+125214,sourcing_tripadvisor,sourcing_tripadvisor,Fast Food Big Mamma,"Italian, Fast Food",,Croatia,SLB,Ul. Vatroslava Jagica 66,45.15897,18.026621,+385 35 627 834,5,5,,,,,ChIJvbUUGKmwXUcRKCqPaTLAckk,365,4.2,-,-,-
+125215,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Grozd,"European, Croatian",,Croatia,SLB,Becic 11a,45.17939000000001,17.97724,,4.5,5,,,,,ChIJrwIyqge6XUcR7hgUL38aNFM,338,4.6,-,-,-
+125216,sourcing_tripadvisor,sourcing_tripadvisor,Navigator,"European, Croatian",,Croatia,SLB,Trg Ivane Brlic Mazuranic,45.15387,18.011797,+385 98 168 9372,5,5,,,,Sun - Thu|7:30 AM - 12:00 AM|Fri - Sat|7:30 AM - 2:00 PM,-,-,-,-,-,-
+125217,sourcing_tripadvisor,sourcing_tripadvisor,Lotos Prenociste i Restoran,"Croatian, Italian, European",,Croatia,SLB,Trg >ivana Brlic Mazhuranic< 10,45.153568,18.011589,+385 35 405 555,4,11,,,,,ChIJ2QsoSv-5XUcRcQWbaj4B2VU,144,4,-,-,-
+125218,sourcing_tripadvisor,sourcing_tripadvisor,Bakery Maralushaj,,,Croatia,SLB,Ulica Vinogradska Cesta 129,45.176331,18.00032,+385 35 491 009,5,1,,,,,ChIJfQ8xvUC6XUcRUoJITO9sDhw,193,4.7,-,-,-
+125219,sourcing_tripadvisor,sourcing_tripadvisor,McDonald's,Fast Food,,Croatia,SLB,Trg Hrvatskog Proljeca 10,45.162498,18.013041,+385 35 494 107,4,1,,,,,ChIJa3jOugW6XUcRdsJwsN50sCk,2002,4.4,-,-,-
+125220,sourcing_tripadvisor,sourcing_tripadvisor,Kod Ante,,,Croatia,SLB,Trg Hrvatskog Proljeca bb Bus Depot,45.16254,18.010189,+385 97 653 7423,4,1,,,,Sun - Sat|9:00 AM - 9:00 PM,ChIJT8G965iwXUcRXkT_4tzjTp8,0,0,-,-,-
+125221,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Galiot,"Italian, Pizza, European, Croatian, Central European",,Croatia,SLB,Zagrebachka Ulica 10,45.165386,17.998949,+385 35 439 096,,,,,,Sun|5:00 PM - 11:00 PM|Mon - Thu|9:00 AM - 10:00 PM|Fri - Sat|9:00 AM - 11:00 PM,ChIJXUzptca7XUcRAhas4hYaeJk,77,4.6,-,-,-
+125222,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Bresic,,,Croatia,SLB,Ulica Vinogradska Cesta 77,45.166302,18.005835,+385 35 203 631,,,,,,,ChIJB_pAMF66XUcR01xCzmY8Q6E,84,4.2,-,-,-
+125223,sourcing_tripadvisor,sourcing_tripadvisor,Superfood Healthy Food Factory,"Pizza, Deli, Healthy, Street Food",,Croatia,SPU,Bana Jelachica 1,43.508812,16.435762,+385 21 256 000,4.5,84,,,,Tue - Sun|1:00 PM - 10:00 PM,ChIJX94gSSJeNRMRyJv1c_xF2F4,264,4.4,-,-,-
+125224,sourcing_tripadvisor,sourcing_tripadvisor,Marta's Veggie Fusion,,,Croatia,SPU,Kreshimirova 8,43.508396,16.440075,+385 21 553 748,4.5,393,,,,,ChIJwQqFJf5dNRMRfNspZgKKK_M,538,4.6,-,-,-
+125225,sourcing_tripadvisor,sourcing_tripadvisor,Corto Maltese Freestyle Food,,,Croatia,SPU,Obrov 7 Near Fish Market,43.509312,16.437544,+385 21 587 201,4.5,1401,,,,Sun - Sat|8:00 AM - 11:59 PM,ChIJTQwu9f5dNRMRGTRNNswH-TU,1276,4.6,-,-,-
+125226,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Portas Food & Restaurant,"Italian, Pizza, Mediterranean, European",,Croatia,SPU,Zlatna Vrata 1 Diocletian's Palace,43.509075,16.44072,+385 21 482 888,4.5,1509,,,,,ChIJsVi3ogBeNRMRBVhZUcUp1mM,881,4.6,-,-,-
+125227,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Tiffany,,,Croatia,SPU,Polj.Kraljice Jelene 5,43.508202,16.440676,+385 21 329 070,4.5,289,,,,Sun - Sat|7:00 AM - 11:00 PM,ChIJz4JMWAJeNRMRvnuRYZ0LrJs,55,4.2,-,-,-
+125228,sourcing_tripadvisor,sourcing_tripadvisor,Mediterraneo restaurant - pizzeria,,,Croatia,SPU,Carrarina Poljana 3,43.508938,16.440916,+385 21 245 531,4.5,340,,,,,ChIJJ3Mx2YtpNRMRkGXq1sLhKMM,200,3.9,-,-,-
+125229,sourcing_tripadvisor,sourcing_tripadvisor,Kantun Paulina,"Fast Food, Eastern European, Croatian",,Croatia,SPU,Matosica Ulica,43.510056,16.43656,+385 21 395 973,4.5,722,,,,,ChIJBXf-mf5dNRMRfJzzK7eui_M,1487,4.7,-,-,-
+125230,sourcing_tripadvisor,sourcing_tripadvisor,Galerija Food,,,Croatia,SPU,Dominisova 9,43.50898,16.440075,+385 98 939 5418,4.5,428,,,,Mon - Sat|8:00 AM - 11:00 PM,ChIJ76YaIv5dNRMR0xZIPN00hC4,241,4.5,-,-,-
+125231,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Matejuska,,,Croatia,SPU,Tomica Stine 3,43.508286,16.434343,+385 21 814 099,4.5,324,,,,,ChIJY08DLf9dNRMRbdxnUzTBKU0,226,4.2,-,-,-
+125232,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Matoni,,,Croatia,SPU,Prilaz Brace Kaliterna 6,43.503094,16.446005,+385 21 278 457,4.5,755,,,,Tue - Sun|1:00 PM - 11:00 PM,ChIJoR9fI6pgNRMRVu_9T2dU9g4,786,4.6,-,-,-
+125233,sourcing_tripadvisor,sourcing_tripadvisor,Dujkin Dvor,,,Croatia,SPU,Trumbiceva Obala 6,43.507835,16.434252,+385 21 355 364,4.5,262,,,,Sun - Sat|8:30 AM - 12:00 AM,ChIJsYCIzvhdNRMRivMXIOlN_sY,192,4.5,-,-,-
+125234,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Korta,,,Croatia,SPU,Grgura Ninskog Poljana 3 Near City Museum of Split,43.508537,16.440607,+385 21 277 455,4.5,1196,,,,Sun - Sat|8:00 AM - 12:00 AM,ChIJtyP_nQBeNRMRTCvCPq7q9PE,559,4.5,-,-,-
+125235,sourcing_tripadvisor,sourcing_tripadvisor,Brasserie on 7,"Seafood, Mediterranean, European, Croatian, Central European",,Croatia,SPU,Obala Hrv.Preporoda 7,43.508213,16.437162,+385 21 278 233,4.5,1151,,,,Sun - Sat|8:00 AM - 6:00 PM,ChIJl6YF_v5dNRMRJETrej5L3wo,1129,4.3,-,-,-
+125236,sourcing_tripadvisor,sourcing_tripadvisor,Zeru,"European, Mediterranean, Wine Bar, Croatian",,Croatia,SPU,Matoshica 5,43.510227,16.436478,+385 98 201 550,5,57,,,,,ChIJ81uBYnNdNRMRVNm_UXKcquM,78,4.8,-,-,-
+125237,sourcing_tripadvisor,sourcing_tripadvisor,Perivoj Restoran & Kavana,,,Croatia,SPU,Slaviceva 44,43.513702,16.440931,+385 21 787 585,4.5,734,,,,Sun|9:00 AM - 12:00 AM|Mon - Sat|7:00 AM - 12:00 AM,ChIJ1TDc9gdeNRMRqa5THDRQ874,1936,4.7,-,-,-
+125238,sourcing_tripadvisor,sourcing_tripadvisor,KONOBA STARE GREDE,"Seafood, Mediterranean, European, Croatian",,Croatia,SPU,Domovin.Rata 46,43.51672,16.445532,+385 21 643 901,4.5,314,,,,Mon - Fri|9:00 AM - 11:00 PM|Sat - Sun|12:00 PM - 11:00 PM,ChIJn8sNJgleNRMR4rXSPOUyQoY,829,4.6,-,-,-
+125239,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Apetit,,,Croatia,SPU,Subiceva 5,43.508682,16.43845,+385 21 332 549,4.5,1375,,,,Sun - Sat|11:00 AM - 12:00 AM,ChIJlftRRf5dNRMRCMX0E7vXCeA,702,4.5,-,-,-
+125240,sourcing_tripadvisor,sourcing_tripadvisor,Bosso steak & burger house,,,Croatia,SPU,Nigerova 1,43.509731,16.437553,+385 91 343 0343,4.5,320,,,,Sun - Sat|8:00 AM - 9:00 AM,ChIJU-Zzif5dNRMR1AHP1-bMb0g,431,4.5,-,-,-
+125241,sourcing_tripadvisor,sourcing_tripadvisor,Biberon Sushi & Bar,,,Croatia,SPU,Put Firula 57,43.501804,16.456999,+385 21 280 448,4.5,170,,,,Sun - Sat|12:00 PM - 12:00 AM,ChIJKVe1QadgNRMR2zVnSKfGSiM,463,4.5,-,-,-
+125242,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Konoba - Pizzeria Lucac,,,Croatia,SPU,Ulica Svetog Petra Starog 2 Next door to famous Bakra  Steak & Pizza Bar,43.506451,16.443239,+385 21 490 490,4.5,1032,,,,Wed - Mon|12:00 PM - 12:00 AM,ChIJpUxTuAFeNRMRPtzklwx7RWk,1054,4.4,-,-,-
+125243,sourcing_tripadvisor,sourcing_tripadvisor,Torito Food Bar,,,Croatia,SPU,Domaldova 2,43.50924699999999,16.438305,+385 21 388 798,4.5,391,,,,Sun - Sat|11:00 AM - 12:00 AM,ChIJ5xeWe85dNRMRkp3fz9Eof5k,57,4.5,-,-,-
+125244,sourcing_tripadvisor,sourcing_tripadvisor,Kod sfinge vaneuropske zviri,,,Croatia,SPU,Buvinina 1,43.508224,16.439096,+385 99 409 2371,4.5,441,,,,,ChIJbRgPMf5dNRMRHhDL_04Tw3w,200,4.5,-,-,-
+125245,sourcing_tripadvisor,sourcing_tripadvisor,Makarun,,,Croatia,SPU,Maruliceva 3,43.508308,16.438683,+385 21 725 058,4.5,662,,,,Sun - Thu|11:45 AM - 11:45 PM|Fri - Sat|11:45 AM - 1:00 AM,ChIJSx_ESP5dNRMRtD0X9q0xThY,363,4.7,-,-,-
+125246,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Pizzeria Peperoncino,"Italian, Pizza, European",,Croatia,SPU,Klanci 4,43.503613,16.525436,+385 21 326 931,4.5,226,,,,Sun - Sat|11:00 AM - 12:00 AM,ChIJte6oCfBfNRMRFCUDpjX2-Ek,532,4.6,-,-,-
+125247,sourcing_tripadvisor,sourcing_tripadvisor,F-Marine,"Seafood, Mediterranean, European, Croatian",,Croatia,SPU,Obala kneza Branimira,43.506264,16.432743,+385 95 559 0640,4.5,364,,,,,ChIJM0xtJlZnNRMRE8Ttqc1F3wU,302,4.5,-,-,-
+125248,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Gust,,,Croatia,SPU,Slaviceva 1,43.511169,16.439425,+385 21 486 333,4.5,351,,,,Mon - Sat|9:00 AM - 11:00 PM,ChIJecOreA5eNRMRcVK5exXS_mE,0,0,-,-,-
+125249,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Fetivi,,,Croatia,SPU,Tomica Stine 4,43.508324,16.434313,+385 21 355 152,4.5,1726,,,,Tue - Sun|12:00 PM - 11:00 PM,ChIJlz4c1PhdNRMRSSxc5Z4l8U4,415,4.5,-,-,-
+125250,sourcing_tripadvisor,sourcing_tripadvisor,Basta Gourmet Bar,"Italian, Healthy, Bar, Pizza, Mediterranean, European",,Croatia,SPU,Obala Kneza Branimira 10,43.506317,16.432589,+385 91 333 3693,4.5,136,,,,Sun|9:00 AM - 11:00 PM|Mon - Wed|8:00 AM - 12:00 AM|Thu|9:00 AM - 12:00 AM|Fri - Sat|8:00 AM - 12:00 AM,ChIJyVcPg4BnNRMRRyMphbG7tYk,578,4.5,-,-,-
+125251,sourcing_tripadvisor,sourcing_tripadvisor,Adriatic Sushi & Oyster bar Split,"Japanese, Seafood, Sushi, Asian",,Croatia,SPU,Carrarina Poljana 4,43.5089,16.441042,+385 21 610 644,4.5,494,,,,,ChIJPzSfmABeNRMRYBeFN4xYMrc,459,4.5,-,-,-
+125252,sourcing_tripadvisor,sourcing_tripadvisor,La Grotta Restaurant,"Mediterranean, Wine Bar, Croatian",,Croatia,SPU,Adamova 3,43.508442,16.439417,+385 91 444 5065,4.5,112,,,,Mon - Sat|4:00 PM - 11:45 PM,ChIJ0dW8vUpdNRMRLz4ENgxqUlA,32,4.4,-,-,-
+125253,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Pizzeria Feral,"Italian, Pizza, Mediterranean, European, Croatian, International",,Croatia,SPU,Senjska 2 21000 Split,43.508511,16.434477,+385 21 277 275,4.5,891,,,,Sun - Sat|8:00 AM - 11:00 PM,ChIJRWe81fhdNRMRLqsYHk9TUcI,411,4.5,-,-,-
+125254,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Marjan,"Seafood, Mediterranean, European, Soups, Croatian",,Croatia,SPU,Senjska 1,43.508469,16.434374,+385 98 934 6848,4.5,1901,,,,Sun - Sat|12:00 PM - 10:30 PM,ChIJIeTB1vhdNRMRTjfpjJX6XXw,477,4.3,-,-,-
+125255,sourcing_tripadvisor,sourcing_tripadvisor,Uje Oil Bar,"Mediterranean, European, Wine Bar, Croatian",,Croatia,SPU,Dominisova 3,43.508972,16.439762,+385 95 200 8008,4,1094,,,,,ChIJjQ7jF_5dNRMR3VrZQYVMQ_M,380,4.2,-,-,-
+125256,sourcing_tripadvisor,sourcing_tripadvisor,Downtown Grill Split,"Steakhouse, European, Croatian, Healthy",,Croatia,SPU,ZrinjskoFrankopanska 15A,43.511738,16.436207,+385 99 230 2222,5,137,,,,Sun|9:00 AM - 5:00 PM,ChIJB2NgBzZdNRMRGZ_elEzJUJ4,233,4.8,-,-,-
+125257,sourcing_tripadvisor,sourcing_tripadvisor,Restaurant Adriatic,,,Croatia,SPU,Sustjepanski Put 2,43.501026,16.428045,+385 21 398 560,4.5,268,,,,,ChIJQ6BpP1pnNRMRfAh9-aNcqKU,-,-,-,-,-
+125258,sourcing_tripadvisor,sourcing_tripadvisor,Buffet Zlatna Ribica,"Seafood, Mediterranean, European, Croatian",,Croatia,SPU,Kraj Sv.Marije 8,43.509251,16.437408,+385 21 348 710,4.5,426,,,,Sun - Sat|6:00 AM - 9:00 PM,ChIJ3bTn9P5dNRMRwyCn0PgXs30,653,4.4,-,-,-
+125259,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Pizzeria Orbis,,,Croatia,SPU,Sv.Lovre 17,43.500626,16.522205,+385 91 411 2111,4.5,288,,,,,ChIJ6-9VL-VfNRMRY8OrLicy2rU,712,4.5,-,-,-
+125260,sourcing_tripadvisor,sourcing_tripadvisor,Bestija,"European, Croatian, Mediterranean",,Croatia,VGO,Masarykova ulica 11/1 U dvoritu / In the backyard,45.81049,15.973017,+385 91 324 0120,5,95,,,,Mon|12:00 AM - 11:00 PM|Tue - Sat|12:00 PM - 11:00 PM,ChIJZRNKIxDXZUcR1cICFXGMuv4,317,4.7,-,-,-
+125261,sourcing_tripadvisor,sourcing_tripadvisor,Konoba Bukara,"European, Eastern European, Croatian",,Croatia,VGO,Hrvatske Bratske Zajednice,45.722595,16.070272,+385 1 6224 505,4.5,86,,,,,ChIJS_63VGB-ZkcRV77yqil7JkY,494,4.5,-,-,-
+125262,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Mon Ami,"Seafood, European, Croatian, Mediterranean",,Croatia,VGO,Trg Kralja Tomislava 26,45.711372,16.08,+385 1 6213 333,4.5,79,,,,,ChIJY2OhnHp-ZkcRa8E577t3xEo,651,4.8,-,-,-
+125263,sourcing_tripadvisor,sourcing_tripadvisor,RESTAURANT Ranch Cowboy,"American, European, Croatian",,Croatia,VGO,Grbec 9 Markusevec Turopoljski,45.657188,15.964987,+385 1 3818 124,4.5,53,,,,Tue - Thu|12:00 PM - 9:00 PM|Fri|12:00 PM - 10:00 PM|Sat - Sun|10:00 AM - 10:00 PM,ChIJoz9exs2BZkcRJqIKFwPN3vQ,2682,4.7,-,-,-
+125264,sourcing_tripadvisor,sourcing_tripadvisor,Gavran,Pizza,,Croatia,VGO,Zagrebachka 122,45.719139,16.061485,+385 1 6222 565,4.5,40,,,,,ChIJS7p6Mlx-ZkcRItQh7IXJjOc,969,4.6,-,-,-
+125265,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Kaktus,"Mexican, Pizza, Fast Food",,Croatia,VGO,Kolodvorska 12,45.716385,16.064987,+385 1 6224 018,4.5,17,,,,,ChIJy1BjmGd-ZkcRD2-Ex6rJ1Us,868,4.5,-,-,-
+125266,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Babriga,"Barbecue, Croatian, Mediterranean, European",,Croatia,VGO,Josipoviceva Ulica 56,45.698212,16.072342,+385 91 154 6657,4.5,21,,,,Sun|7:00 AM - 3:00 PM|Mon - Sat|7:00 AM - 10:00 PM,ChIJE61ssA5-ZkcR3Lyy6fZVyZA,448,4.6,-,-,-
+125267,sourcing_tripadvisor,sourcing_tripadvisor,Barba Niko,"European, Croatian",,Croatia,VGO,Pleska 125 Velika Gorica,45.730042,16.06673,+385 1 6265 573,4,38,,,,,ChIJUU3UJmJ-ZkcRcVHGk9SocKQ,244,4.5,-,-,-
+125268,sourcing_tripadvisor,sourcing_tripadvisor,Pastuh,Grill,,Croatia,VGO,Ulica Hrvatske Bratske Zajednice 78,45.722019,16.071783,,4,12,,,,,ChIJFZbUzWF-ZkcRUfp9YYyKSes,0,0,-,-,-
+125269,sourcing_tripadvisor,sourcing_tripadvisor,Bistro - Pizzeria Ziher,"Pizza, Fast Food, Barbecue, European, Grill, Croatian",,Croatia,VGO,Ulica Matije Slatinskog 9,45.715496,16.065331,+385 1 3885 088,4.5,8,,,,,ChIJ18L6uGd-ZkcRPAnK1m-ecSc,808,4.4,-,-,-
+125270,sourcing_tripadvisor,sourcing_tripadvisor,Bistro London,"Mexican, Pizza",,Croatia,VGO,Kolodvorska 142,45.706848,16.04986,+385 1 6234 687,3,7,,,,Sun|12:00 PM - 10:00 PM|Mon - Sat|8:00 AM - 11:00 PM,ChIJLQm-oDh-ZkcRpxTYdOFvk8U,278,4.2,-,-,-
+125271,sourcing_tripadvisor,sourcing_tripadvisor,Pizzeria Gracija,Pizza,,Croatia,VGO,Trg Stjepana Radica 2,45.712021,16.066385,+385 1 6268 800,3,2,,,,,ChIJo3e_1Wh-ZkcRDyo2aFu5sVE,335,4.3,-,-,-
+125272,sourcing_tripadvisor,sourcing_tripadvisor,Pivnica Turopolje,"European, Croatian",,Croatia,VGO,Trg Kralja Petra Kresimira IV. 29,45.711102,16.079714,+385 1 6221 321,4.5,8,,,,,ChIJLUACynB-ZkcRf9ybZURKH64,1080,4.7,-,-,-
+125273,sourcing_tripadvisor,sourcing_tripadvisor,BTA HRVATSKA d.o.o,,,Croatia,VGO,Ulica Rudolfa Fizira 21,45.741562,16.08017,+385 1 4562 826,2.5,10,,,,,ChIJCTw64np_ZkcRVGqv6ZK34Dc,29,3.2,-,-,-
+125274,sourcing_tripadvisor,sourcing_tripadvisor,Japanese restaurant Tekka,,,Croatia,VGO,Radnichka Cesta 37 B,45.802734,16.00312,+385 1 6389 398,4.5,251,,,,Mon - Sat|11:00 AM - 12:00 AM,ChIJSYyolATXZUcRlD61bmuyEhs,603,4.7,-,-,-
+125275,sourcing_tripadvisor,sourcing_tripadvisor,Stafa's,"Central European, European, Croatian",,Croatia,VGO,Cebini 35,45.74778,15.995088,+385 1 6607 919,4.5,49,,,,,ChIJdxPfR4nVZUcRWjbQhrtfteU,336,4.5,-,-,-
+125276,sourcing_tripadvisor,sourcing_tripadvisor,Heritage Croatian Food,"Street Food, Croatian",,Croatia,VGO,Petrinjska Ulica 14,45.810818,15.979885,,5,775,,,,Sun - Sat|12:15 PM - 7:00 PM,ChIJj7lT5P7WZUcRujzWCxJO-kg,981,4.7,-,-,-
+125277,sourcing_tripadvisor,sourcing_tripadvisor,Sofra Bosnian Restaurant,,,Croatia,VGO,Radnichka Cesta 52,45.801971,16.002258,+385 1 4111 621,4.5,327,,,,Sun|11:00 AM - 6:00 PM|Mon - Sat|11:00 AM - 12:00 AM,ChIJq0e-80jWZUcRv08OVCNpuKA,2897,4.6,-,-,-
+125278,sourcing_tripadvisor,sourcing_tripadvisor,Sofra,,,Croatia,VGO,Ulica i. Gardijske Brigade Tigrovi 27,45.78923,16.011213,+385 1 6131 026,4.5,322,,,,Sun|12:00 PM - 6:00 PM|Mon - Sat|10:00 AM - 12:00 AM,ChIJ7d2Rf9_WZUcRSl0mnVp3V-E,2680,4.6,-,-,-
+125279,sourcing_tripadvisor,sourcing_tripadvisor,il Secondo,,,Croatia,VGO,Avenija Dubrovnik 12,45.777172,15.975235,+385 1 6586 609,4.5,181,,,,Sun - Sat|8:00 AM - 12:00 AM,ChIJG7wsZnjWZUcRmaTCdlNag6w,1750,4.6,-,-,-
+125280,sourcing_tripadvisor,sourcing_tripadvisor,Submarine Burger Radnicka,"American, Bar, Fast Food, Barbecue, European",,Croatia,VGO,Radnichka Cesta 34,45.803661,15.998333,+385 1 6264 347,4.5,196,,,,Sun|12:00 AM - 6:00 PM|Mon - Thu|11:00 AM - 10:00 PM|Fri - Sat|11:00 AM - 11:00 PM,ChIJs3YiIU_WZUcRcAdmnCNY8x8,1719,4.6,-,-,-
+125281,sourcing_tripadvisor,sourcing_tripadvisor,Zinfandel's Restaurant,,,Croatia,VGO,Mihanoviceva Ulica 1,45.805401,15.976022,+385 1 4566 644,4.5,525,,,,Sun - Sat|6:00 AM - 11:00 PM,ChIJ-4PswvnWZUcR-CI68NVVuwY,394,4.6,-,-,-
+125282,sourcing_tripadvisor,sourcing_tripadvisor,Roots Juice & Cocktail Bar,"Croatian, Bar, Cafe, Pub, Healthy",,Croatia,VGO,Tomiceva 5,45.81377800000001,15.973035,+385 98 322 385,5,75,,,,Sun - Thu|10:00 AM - 11:00 PM|Fri - Sat|10:00 AM - 2:00 AM,ChIJ5fGk0OfXZUcR71--Dk9suc8,286,4.9,-,-,-
+125283,sourcing_tripadvisor,sourcing_tripadvisor,The Garden Brewery,"Brew Pub, Bar, Pub, Street Food",,Croatia,VGO,"Slavonska Avenija 22F Zitnjak, Poslovni Centre",45.792454,16.032982,+385 1 5634 100,4.5,58,,,,Sun|12:00 PM - 8:00 PM|Mon - Thu|11:00 AM - 11:00 PM|Fri|11:00 AM - 2:00 AM|Sat|12:00 PM - 2:00 AM,ChIJGQl5Ipx4ZkcR__L7l5JRljE,861,4.7,-,-,-
+125284,sourcing_tripadvisor,sourcing_tripadvisor,Pri Zvoncu,,,Croatia,VGO,Vrbik XIII,45.795292,15.9691,+385 1 6198 473,4.5,390,,,,Mon - Sat|11:00 AM - 11:00 PM,ChIJDeCRXIvWZUcRw1xHeIm3mFc,2277,4.7,-,-,-
+125285,sourcing_tripadvisor,sourcing_tripadvisor,Accubo,,,Croatia,VGO,Odranska Zavrtnica 5,45.732742,15.995352,+385 1 6251 827,5,12,,,,,ChIJIbq7ToB_ZkcRRlgluOY9fMw,440,4.4,-,-,-
+125286,sourcing_tripadvisor,sourcing_tripadvisor,Le Bistro Esplanade,,,Croatia,VGO,Mihanoviceva Ulica 1 Esplanade Zagreb Hotel,45.805405,15.975934,+385 1 4566 611,4.5,632,,,,Sun - Sat|9:00 AM - 11:00 PM,ChIJRR0h3fnWZUcRMwjGyPUDZU4,261,4.8,-,-,-
+125287,sourcing_tripadvisor,sourcing_tripadvisor,Vagabund,,,Croatia,VGO,Vlashka Ulica 90,45.813892,15.992185,+385 1 4641 177,4.5,943,,,,Sun|8:00 AM - 11:00 PM|Mon - Wed|7:00 AM - 11:00 PM|Thu - Sat|7:00 AM - 12:00 AM,ChIJlyyZYavXZUcR6J0jnoMI404,597,4.5,-,-,-
+125288,sourcing_tripadvisor,sourcing_tripadvisor,Canzona,"Italian, Pizza, Mediterranean, European",,Croatia,VGO,Svearova 9,45.807823,15.988219,+385 1 4617 777,4.5,241,,,,Sun - Sat|12:00 PM - 11:00 PM,ChIJIZNIqlbWZUcRfGkkLfE4YH0,1244,4.6,-,-,-
+125289,sourcing_tripadvisor,sourcing_tripadvisor,Duksa Pizza,"Italian, Pizza, European",,Croatia,VGO,Duknoviceva Ulica 4,45.822056,16.011675,+385 1 2334 556,4.5,543,,,,Sun|8:00 AM - 11:00 PM|Mon - Sat|7:00 AM - 11:00 PM,ChIJn0ptcbnXZUcRd2qQKGv1-yE,3436,4.6,-,-,-
+125290,sourcing_tripadvisor,sourcing_tripadvisor,OXBO Urban Bar & Grill,,,Croatia,VGO,Ulica Grada Vukovara 269 a,45.801517,16.001554,+385 1 6001 914,4.5,214,,,,Mon - Fri|6:00 AM - 11:00 PM|Sat - Sun|6:30 AM - 11:00 PM,ChIJdSr7hUjWZUcR9dKjK9LzhWQ,162,4.5,-,-,-
+125291,sourcing_tripadvisor,sourcing_tripadvisor,RougeMarin,"Bar, European",,Croatia,VGO,Ulica Frana Folnegovica 10,45.79805,16.006954,+385 1 6187 776,4,259,,,,Mon - Fri|11:00 AM - 11:00 PM|Sat|12:00 PM - 11:00 PM,ChIJC_xMBznWZUcRskSgwqbu4tg,1939,4.4,-,-,-
+125292,sourcing_tripadvisor,sourcing_tripadvisor,Eggspress,"Cafe, European, Central European, Healthy",,Croatia,VGO,Amruseva 4,45.81155,15.979955,+385 95 720 0905,4.5,365,,,,Sun|8:00 AM - 3:00 PM|Tue - Sat|7:30 AM - 2:30 PM,ChIJL1mqR__WZUcRmSko7DkVV3o,842,4.5,-,-,-
+125293,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Naranca,"European, Croatian, Central European",,Croatia,VGO,Velika Cesta 78,45.73682,16.003361,+385 91 507 6709,5,1,,,,,ChIJs_NCOYnVZUcRwumMspmZjlI,123,4.3,-,-,-
+125294,sourcing_tripadvisor,sourcing_tripadvisor,Le Mika,,,Croatia,VGO,Teslina Ul. 14,45.811325,15.975227,+385 91 444 0870,4.5,292,,,,Sun - Sat|12:00 PM - 11:00 PM,ChIJf7S4n_zWZUcRHBQ7t8Psgd8,327,4.5,-,-,-
+125295,sourcing_tripadvisor,sourcing_tripadvisor,Gyoza Sake Bar,,,Croatia,VGO,Boshkoviceva Ulica 6,45.809578,15.980181,+385 1 5584 088,4.5,361,,,,Mon - Fri|12:00 PM - 11:00 PM|Sat|12:00 PM - 6:00 PM,ChIJNyODLv_WZUcRuFnc2g_uUjY,379,4.6,-,-,-
+125296,sourcing_tripadvisor,sourcing_tripadvisor,Batak Grill Cvjetni,,,Croatia,VGO,Trg Petra Preradovica 6 Centar Cvjetni,45.812214,15.973184,+385 1 4833 370,4.5,540,,,,Sun - Sat|11:00 AM - 11:00 PM,ChIJe5zq4vzWZUcR95dS1OQ-YA0,1844,4.7,-,-,-
+125297,sourcing_tripadvisor,sourcing_tripadvisor,Gallo,,,Croatia,VGO,"Hebrangova 34 Andije Hebranga 34, 10 000, Zagreb, Central Croatia",45.809261,15.973142,+385 1 4814 014,4.5,499,,,,Sun - Sat|12:00 PM - 11:00 PM,ChIJF7HknvvWZUcRlnk2DwagDas,353,4.6,-,-,-
+125298,sourcing_tripadvisor,sourcing_tripadvisor,Noel,"Contemporary, Croatian, European",,Croatia,VGO,Ulica Popa Dukljanina 1,45.811077,15.988286,+385 95 560 6640,4.5,155,,,,Mon - Sat|12:00 PM - 2:00 AM,ChIJ6YHB8FTWZUcRVtizzodGlhA,463,4.6,-,-,-
+125299,sourcing_tripadvisor,sourcing_tripadvisor,Sri Lankan Curry Bowl,,,Croatia,VGO,Tkalchiceva Ulica 44,45.81612800000001,15.976616,+385 1 5579 175,4.5,854,,,,Sun - Thu|11:00 AM - 11:00 PM|Fri - Sat|11:00 AM - 12:00 AM,ChIJxyKS9gLXZUcRFht1daFCSo4,1592,4.6,-,-,-
+125300,sourcing_tripadvisor,sourcing_tripadvisor,Batak Grill,"Barbecue, European, Eastern European, Croatian, Central European, Grill",,Croatia,VGO,Lastovska Ulica 1a Savica,45.794411,15.992621,+385 1 4952 200,4.5,105,,,,,ChIJ75-7SEjWZUcRH84nChWWy9A,1027,4.6,-,-,-
+125301,sourcing_tripadvisor,sourcing_tripadvisor,Vegehop,"European, International, Healthy",,Croatia,VGO,Vlaska ulica 79 Vlaska 79,45.814163,15.988081,+385 1 4649 400,4.5,218,,,,Mon - Fri|12:00 PM - 9:00 PM|Sat - Sun|12:00 PM - 8:00 PM,ChIJh7nKXjrUZUcRH714sUuSRn4,564,4.7,-,-,-
+125302,sourcing_tripadvisor,sourcing_tripadvisor,Otto&Frank,"Cafe, European, Contemporary, Croatian, Central European",,Croatia,VGO,Tkalciceva 20,45.815075,15.976315,+385 1 4824 288,4.5,580,,,,Sun|9:00 AM - 10:00 PM|Mon - Thu|8:00 AM - 12:00 AM|Fri - Sat|8:00 AM - 1:00 AM,ChIJc6_vfALXZUcRcPqt7ONYNLM,1099,4.6,-,-,-
+125303,sourcing_tripadvisor,sourcing_tripadvisor,Brewbites Zagreb,,,Croatia,VGO,Ulica Ljudevita Gaja 10,45.81102,15.976411,+385 1 4820 800,4.5,340,,,,Sun - Sat|12:00 PM - 12:00 AM,ChIJidcGIvzWZUcRUW68lsp-anQ,1605,4.6,-,-,-
+125304,sourcing_tripadvisor,sourcing_tripadvisor,Zrno bio bistro,"European, Healthy",,Croatia,VGO,Meduliceva Ulica 20,45.811096,15.966525,+385 1 4847 540,4.5,539,,,,Mon - Sat|12:00 PM - 9:30 PM,ChIJsSSmeOTWZUcRmUkqYIe8B6s,866,4.6,-,-,-
+125305,sourcing_tripadvisor,sourcing_tripadvisor,La Struk,Croatian,,Croatia,VGO,Skalinska Ul. 5,45.814896,15.976804,+385 1 4837 701,4.5,1787,,,,Sun|11:30 AM - 10:00 PM|Mon - Sat|11:00 AM - 10:00 PM,ChIJ6VE-egLXZUcRomv2xXXW5WU,2898,4.6,-,-,-
+125306,sourcing_tripadvisor,sourcing_tripadvisor,Plac,,,Croatia,VGO,Dolac 2,45.813831,15.977285,+385 1 4876 761,4.5,991,,,,Sun|11:00 AM - 6:00 PM|Mon - Sat|9:00 AM - 11:00 PM,ChIJVYZc7f3WZUcRy6Dd1rlWm7w,857,4.5,-,-,-
+125307,sourcing_tripadvisor,sourcing_tripadvisor,Restoran Lanterna na Dolcu,,,Croatia,VGO,Opatovina 31,45.815929,15.977325,+385 1 4819 009,4.5,1295,,,,Sun - Sat|4:00 PM - 11:00 PM,ChIJD7yOXALXZUcR7R3Ox_mVm3Y,384,4.4,-,-,-
+125308,sourcing_tripadvisor,sourcing_tripadvisor,Savica Eatery,"International, European",,Croatia,VGO,Lastovska Ulica 38,45.791187,15.999146,+385 1 2985 658,4.5,34,,,,Mon - Fri|11:00 AM - 11:00 PM|Sat|12:00 PM - 11:00 PM,ChIJIYAwUhXWZUcR2lKOQWWCvNo,532,4.6,-,-,-
+125309,sourcing_tripadvisor,sourcing_tripadvisor,Amelie,,,Croatia,VGO,Vlashka Ulica 6,45.814014,15.978862,+385 1 5583 360,4.5,858,,,,Sun - Sat|8:00 AM - 11:00 PM,ChIJg4H6Bv7WZUcRfABmSKqaloo,888,4.5,-,-,-
+125310,sourcing_tripadvisor,sourcing_tripadvisor,Pod Zidom Bistro,,,Croatia,VGO,Pod Zidom 5,45.813923,15.978175,+385 99 325 3600,4.5,509,,,,Sun|12:00 PM - 11:00 PM|Tue - Sat|12:00 PM - 12:00 AM,ChIJp_GH-v3WZUcRuwvA9oHg4Lw,646,4.5,-,-,-
+125311,sourcing_tripadvisor,sourcing_tripadvisor,Vincek Slasticarnica,Cafe,,Croatia,VGO,Ilica 18,45.813126,15.973199,+385 1 4833 612,4.5,636,,,,Mon - Sat|8:30 AM - 11:00 PM,ChIJhXIrPf3WZUcRxGvB8VGogXU,3615,4.5,-,-,-
+125312,sourcing_tripadvisor,sourcing_tripadvisor,Bistro Fotic,"Mediterranean, European, Croatian, Central European, Contemporary",,Croatia,VGO,Gajeva Ulica 25,45.809673,15.976632,+385 1 4810 476,4.5,428,,,,Mon - Sat|8:00 AM - 11:00 PM,ChIJvwm4qv7WZUcRj8QyTYEi920,832,4.5,-,-,-
+125313,sourcing_tripadvisor,sourcing_tripadvisor,The Cookie Factory,Cafe,,Croatia,VGO,Tkalciceva 21 Nemciceva 8,45.814915,15.976215,+385 1 5510 645,4.5,326,,,,Sun - Sat|9:00 AM - 11:00 PM,ChIJYVrxfQLXZUcRjpE86U594hk,1235,4.6,-,-,-
+125314,sourcing_tripadvisor,sourcing_tripadvisor,Kod Vukusica,"Seafood, Mediterranean, European, Croatian, Central European",,Croatia,VGO,Slavonska Avenija,45.796551,16.01602,+385 91 201 9421,5,31,,,,Mon - Sat|10:00 AM - 5:00 PM,ChIJreuoRZx4ZkcRN0tF93GAJkk,1153,4.8,-,-,-
+125315,sourcing_tripadvisor,sourcing_tripadvisor,Rocket Burger Cafe,,,Croatia,VGO,Tkalciceva 50,45.81636,15.976545,+385 1 4845 386,4.5,628,,,,Sun - Sat|11:30 AM - 11:00 PM,ChIJUylg9gLXZUcRb24Aze0HPG0,1011,4.5,-,-,-
+125316,sourcing_tripadvisor,sourcing_tripadvisor,Dubravkin Put,"Mediterranean, European, Croatian, Central European",,Croatia,VGO,Dubravkin Put 2,45.818512,15.973134,+385 1 4834 975,4.5,329,,,,,ChIJlSm5wRzXZUcRhoITnFKwG08,1070,4.7,-,-,-
+125317,sourcing_tripadvisor,sourcing_tripadvisor,Namaste India,Indian,,Croatia,VGO,Selska Cesta 217,45.786804,15.949535,+385 1 6264 458,4.5,97,,,,Sun|12:00 AM - 10:00 PM|Mon|2:00 PM - 11:00 PM|Tue - Sat|12:00 AM - 11:00 PM,ChIJA1jnNZXXZUcRga2YRU1PzfQ,725,4.7,-,-,-
+125318,sourcing_tripadvisor,sourcing_tripadvisor,Purger,,,Croatia,VGO,Petrinjska Ulica 33,45.810059,15.980317,+385 1 4810 713,4,537,,,,,ChIJdfoInL_WZUcRyVp8QKZtfjQ,364,4.6,-,-,-
+125319,sourcing_tripadvisor,sourcing_tripadvisor,Submarine Burger Frankopanska,"American, Bar, Fast Food",,Croatia,VGO,Frankopanska Ulica 11,45.811985,15.969497,+385 1 4831 500,4.5,530,,,,Sun|1:00 PM - 9:00 PM|Mon - Thu|11:00 AM - 11:00 PM|Fri - Sat|11:00 AM - 12:00 AM,ChIJk-6aP-PWZUcRbQJV7j8b4y0,2436,4.6,-,-,-
+125320,sourcing_tripadvisor,sourcing_tripadvisor,Melt,"Cafe, Healthy, Croatian",,Croatia,VGO,Ulica Pavla Radica 3A,45.813774,15.975843,,4.5,38,,,,Sun|9:00 AM - 5:00 PM|Mon - Sat|9:00 AM - 11:00 PM,ChIJebrujTfXZUcRvW_iFfAfjL4,401,4.6,-,-,-

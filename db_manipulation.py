@@ -5,8 +5,6 @@ path_for_writing = r'C:\Users\berkayg\Desktop\Coding env\Main Folder\Upwork\Comp
 def csv_writer(path_for_writing):
     path = path_for_writing
     data = pd.read_excel(path)
-    data = data.loc[data['Sourcing_competitor']=='sourcing_tripadvisor']
-    data = data.iloc[:500]
     data.to_csv('Rests.csv', index=False)
 
 def sql_writer():
@@ -33,7 +31,6 @@ def sql_writer():
     for n,i in enumerate(values):
         try:
             i.append(n)
-            print(len(i),'--',i)
 
             cur.executemany(f"INSERT INTO resties_Restaurant VALUES ({vals});", [i])
         except Exception as ee:
@@ -60,7 +57,7 @@ def search_all():
 
 
 
-#csv_writer(path_for_writing)
+csv_writer(path_for_writing)
 sql_writer()
 # kk = search_all()
 # print(kk)

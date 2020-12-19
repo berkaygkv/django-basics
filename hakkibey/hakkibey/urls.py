@@ -22,5 +22,5 @@ from resties.views import restaurant_detail_view
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', home_view),
-    path('rests', restaurant_detail_view)
+    path('rests', restaurant_detail_view),
 ]
